@@ -1,0 +1,43 @@
+{"file":"PIR12-13-15-wikipedia-2021-malacca-state-election-context","timestamp":"2026-08-05 01:11 +08","entities":{
+"pois":[
+{"name":"Adly Zahari","mentions":1}
+,
+{"name":"Mas Ermieyati Samsudin","mentions":1}
+,
+{"name":"Adam Adli","mentions":1}
+,
+{"name":"Mohd Noor Helmy","mentions":1}
+,
+{"name":"Sulaiman Md Ali","mentions":2}
+],
+"dun_seats":[
+{"constituency":"Rembia","mentions":3}
+,
+{"constituency":"Gadek","mentions":2}
+,
+{"constituency":"Machap Jaya","mentions":1}
+,
+{"constituency":"Durian Tunggal","mentions":1}
+,
+{"constituency":"Sungai Udang","mentions":3}
+,
+{"constituency":"Pantai Kundor","mentions":2}
+,
+{"constituency":"Paya Rumput","mentions":3}
+,
+{"constituency":"Kelebang","mentions":2}
+,
+{"constituency":"Pengkalan Batu","mentions":3}
+,
+{"constituency":"Bukit Katil","mentions":1}
+,
+{"constituency":"Duyong","mentions":5}
+,
+{"constituency":"Telok Mas","mentions":3}
+,
+{"constituency":"Bemban","mentions":2}
+,
+{"constituency":"Rim","mentions":2}
+,
+{"constituency":"Serkam","mentions":1}
+]}}

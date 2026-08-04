@@ -1,0 +1,39 @@
+{"file":"PIR05-wikipedia-2021-malacca-state-election-baseline","timestamp":"2026-08-05 01:11 +08","entities":{
+"pois":[
+{"name":"Ab Rauf Yusoh","mentions":2}
+,
+{"name":"Adly Zahari","mentions":1}
+,
+{"name":"Adam Adli","mentions":3}
+,
+{"name":"Sulaiman Md Ali","mentions":4}
+],
+"dun_seats":[
+{"constituency":"Tanjung Bidara","mentions":1}
+,
+{"constituency":"Rembia","mentions":1}
+,
+{"constituency":"Gadek","mentions":1}
+,
+{"constituency":"Machap Jaya","mentions":1}
+,
+{"constituency":"Durian Tunggal","mentions":2}
+,
+{"constituency":"Sungai Udang","mentions":2}
+,
+{"constituency":"Pantai Kundor","mentions":1}
+,
+{"constituency":"Paya Rumput","mentions":1}
+,
+{"constituency":"Kelebang","mentions":1}
+,
+{"constituency":"Pengkalan Batu","mentions":2}
+,
+{"constituency":"Bukit Katil","mentions":1}
+,
+{"constituency":"Duyong","mentions":1}
+,
+{"constituency":"Telok Mas","mentions":2}
+,
+{"constituency":"Bemban","mentions":1}
+]}}

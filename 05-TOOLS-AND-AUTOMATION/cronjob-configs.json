@@ -1,99 +1,129 @@
 {
-  "workspace": "prn-melaka-poi",
-  "updated": "2026-08-04T16:00:00+08:00",
+  "workstream": "PRN Melaka POI Intelligence",
+  "exported_at": "2026-08-04T18:37:10.514756Z",
+  "repo": "ahmadfaurani/prn-melaka-poi",
+  "workspace": "/home/p62operator/.openclaw/workspace-mlk",
   "total_cronjobs": 10,
   "cronjobs": [
     {
       "id": "1f4f54158118",
-      "name": "CJ-MLK-01",
-      "label": "Executive Leadership & Governance",
-      "schedule": "every 12h",
+      "name": "PRN Melaka POI \u2014 Executive Leadership & Governance (CJ-MLK-01)",
+      "schedule": {
+        "kind": "interval",
+        "minutes": 720,
+        "display": "every 720m"
+      },
       "deliver": "telegram",
-      "type": "LLM",
-      "pirs": [1, 2, 6, 7, 8, 26]
+      "enabled": true,
+      "workdir": "/home/p62operator/.openclaw/workspace-mlk"
     },
     {
       "id": "c5166035c993",
-      "name": "CJ-MLK-02",
-      "label": "Defence, Parliament & Federal Portfolios",
-      "schedule": "every 12h",
+      "name": "PRN Melaka POI \u2014 Defence, Parliament & Federal Portfolios (CJ-MLK-02)",
+      "schedule": {
+        "kind": "interval",
+        "minutes": 720,
+        "display": "every 720m"
+      },
       "deliver": "local",
-      "type": "LLM",
-      "pirs": [3, 4, 11]
+      "enabled": true,
+      "workdir": "/home/p62operator/.openclaw/workspace-mlk"
     },
     {
       "id": "14f2a2f63fe7",
-      "name": "CJ-MLK-03",
-      "label": "Coalition Dynamics & Electoral Strategy",
-      "schedule": "every 12h",
+      "name": "PRN Melaka POI \u2014 Coalition Dynamics & Electoral Strategy (CJ-MLK-03)",
+      "schedule": {
+        "kind": "interval",
+        "minutes": 720,
+        "display": "every 720m"
+      },
       "deliver": "telegram",
-      "type": "LLM",
-      "pirs": [5, 9, 10, 28, 30]
+      "enabled": true,
+      "workdir": "/home/p62operator/.openclaw/workspace-mlk"
     },
     {
       "id": "3632c493e6ab",
-      "name": "CJ-MLK-04",
-      "label": "Grassroots & Secondary POI",
-      "schedule": "0 0 * * *",
+      "name": "PRN Melaka POI \u2014 Grassroots & Secondary POI (CJ-MLK-04)",
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 0 * * *",
+        "display": "0 0 * * *"
+      },
       "deliver": "local",
-      "type": "LLM",
-      "pirs": [12, 13, 14, 15, 20, 21, 22, 23, 24]
+      "enabled": true,
+      "workdir": "/home/p62operator/.openclaw/workspace-mlk"
     },
     {
       "id": "870cb75c45ac",
-      "name": "CJ-MLK-05",
-      "label": "Daily Intelligence Brief & PIR Tracker",
-      "schedule": "0 4 * * *",
+      "name": "PRN Melaka POI \u2014 Daily Intelligence Brief & PIR Tracker (CJ-MLK-05)",
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 4 * * *",
+        "display": "0 4 * * *"
+      },
       "deliver": "origin",
-      "type": "LLM",
-      "pirs": "all"
+      "enabled": true,
+      "workdir": "/home/p62operator/.openclaw/workspace-mlk"
     },
     {
-      "name": "CJ-MLK-06",
-      "label": "Git Sync",
-      "schedule": "0 5 * * *",
+      "id": "54e02bb3cf89",
+      "name": "PRN Melaka POI \u2014 Git Sync (CJ-MLK-06)",
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 5 * * *",
+        "display": "0 5 * * *"
+      },
       "deliver": "local",
-      "type": "script",
-      "script": "sync-prn-melaka.sh",
-      "no_agent": true
+      "enabled": true,
+      "workdir": "/home/p62operator/.openclaw/workspace-mlk"
     },
     {
       "id": "68d249802b0d",
-      "name": "CJ-MLK-07",
-      "label": "Entity Extraction Pipeline",
-      "schedule": "0 6 * * *",
+      "name": "CJ-MLK-07 Entity Extraction Pipeline",
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 6 * * *",
+        "display": "0 6 * * *"
+      },
       "deliver": "local",
-      "type": "script",
-      "script": "mlk-entity-extraction.sh",
-      "no_agent": true
+      "enabled": true,
+      "workdir": "/home/p62operator/.openclaw/workspace-mlk"
     },
     {
       "id": "3180b5d1b5d3",
-      "name": "CJ-MLK-08",
-      "label": "Sentiment Analysis Pipeline",
-      "schedule": "0 7 * * *",
+      "name": "CJ-MLK-08 Sentiment Analysis Pipeline",
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 7 * * *",
+        "display": "0 7 * * *"
+      },
       "deliver": "local",
-      "type": "script",
-      "script": "mlk-sentiment-analysis.sh",
-      "no_agent": true
+      "enabled": true,
+      "workdir": "/home/p62operator/.openclaw/workspace-mlk"
     },
     {
       "id": "c2efb2bb5822",
-      "name": "CJ-MLK-09",
-      "label": "Campaign Trail Tracker",
-      "schedule": "every 6h",
+      "name": "CJ-MLK-09 Campaign Trail Tracker",
+      "schedule": {
+        "kind": "interval",
+        "minutes": 360,
+        "display": "every 360m"
+      },
       "deliver": "telegram",
-      "type": "LLM",
-      "pirs": [27, 28, 29, 30]
+      "enabled": true,
+      "workdir": "/home/p62operator/.openclaw/workspace-mlk"
     },
     {
       "id": "ccadd5f79ae1",
-      "name": "CJ-MLK-10",
-      "label": "Weekly Deep-Dive Analysis",
-      "schedule": "0 8 * * 1",
+      "name": "CJ-MLK-10 Weekly Deep-Dive Analysis",
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 8 * * 1",
+        "display": "0 8 * * 1"
+      },
       "deliver": "origin",
-      "type": "LLM",
-      "pirs": "all"
+      "enabled": true,
+      "workdir": "/home/p62operator/.openclaw/workspace-mlk"
     }
   ]
 }

@@ -1,0 +1,21 @@
+{"file":"PIR12-wikipedia-jasin-federal-constituency-zulkifli","timestamp":"2026-08-05 01:11 +08","entities":{
+"pois":[
+{"name":"Muhamad Akmal Saleh","mentions":1}
+,
+{"name":"Zulkifli Ismail","mentions":10}
+,
+{"name":"Mohd Yadzil Yaakub","mentions":2}
+],
+"dun_seats":[
+{"constituency":"Rembia","mentions":1}
+,
+{"constituency":"Bemban","mentions":3}
+,
+{"constituency":"Rim","mentions":3}
+,
+{"constituency":"Serkam","mentions":3}
+,
+{"constituency":"Merlimau","mentions":3}
+,
+{"constituency":"Sungai Rambai","mentions":3}
+]}}

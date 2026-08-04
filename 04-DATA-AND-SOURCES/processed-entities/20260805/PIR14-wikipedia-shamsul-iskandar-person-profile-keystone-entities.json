@@ -1,0 +1,15 @@
+{"file":"PIR14-wikipedia-shamsul-iskandar-person-profile-keystone","timestamp":"2026-08-05 01:11 +08","entities":{
+"pois":[
+{"name":"Adam Adli","mentions":2}
+,
+{"name":"Zulkifli Ismail","mentions":1}
+,
+{"name":"Shamsul Iskandar","mentions":6}
+],
+"dun_seats":[
+{"constituency":"Paya Rumput","mentions":2}
+,
+{"constituency":"Bukit Katil","mentions":5}
+,
+{"constituency":"Rim","mentions":6}
+]}}

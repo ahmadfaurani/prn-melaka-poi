@@ -1,0 +1,68 @@
+{
+  "cronjob": "CJ-MLK-03",
+  "workstream": "PRN Melaka — Coalition Dynamics & Electoral Strategy",
+  "cycle": "inaugural",
+  "collection_timestamp": "2026-08-05 00:38 MYT (UTC+8)",
+  "collector": "CJ-MLK-03 Collection Agent (zai-org/GLM-5.2)",
+  "classification": "TLP:AMBER",
+  "pirs_addressed": [
+    {"id": "PIR-POI-MLK-05", "priority": "CRITICAL", "title": "Cross-POI — Coalition Seat Negotiation & Electoral Strategy", "status_after": "Substantially RESOLVED (structure/dynamics); Open (specific seat allocations)", "confidence": "HIGH (structure) / OPEN (allocations)"},
+    {"id": "PIR-POI-MLK-09", "priority": "HIGH", "title": "Mas Ermieyati — PN/Bersatu Electoral Strategy", "status_after": "Partial → Advanced (party context); Open (personal status)", "confidence": "HIGH (party context) / OPEN (personal status)"},
+    {"id": "PIR-POI-MLK-10", "priority": "HIGH", "title": "Adly Zahari — PH/Amanah Coalition Positioning", "status_after": "Partial → Advanced (positioning documented); Open (electoral trajectory)", "confidence": "HIGH (positioning) / OPEN (campaign)"}
+  ],
+  "search_queries_executed": 10,
+  "search_relevant_results": 0,
+  "search_backend_status": "STRUCTURAL FAILURE (confirmed across 3 cycles — CJ-MLK-01/02/03). Queries returned Ubuntu, casino, porn, tourism. Zero Malaysian political content.",
+  "web_extracts_executed": 11,
+  "web_extracts_successful": 11,
+  "raw_scrapes_saved": 12,
+  "raw_scrapes": [
+    {"id": "A1", "file": "PIR05-10-09-wikipedia-2026-malacca-state-election-keystone.md", "source": "Wikipedia EN — 2026 Malacca state election", "pir": "PIR-05/10/09", "tag": "CRITICAL (KEYSTONE)", "confidence": "HIGH", "note": "THE next PRN; current assembly; PH withdrawal Jul 2026; 7-unequent-seats amendment; 120-day window"},
+    {"id": "A2", "file": "PIR05-09-10-wikipedia-2026-ns-state-election-keystone.md", "source": "Wikipedia EN — 2026 Negeri Sembilan state election", "pir": "PIR-05/09/10", "tag": "CRITICAL (KEYSTONE)", "confidence": "HIGH", "note": "BN+PN informal pact 25/36; BERSATU 0; PAS-BERSATU break; Bersama→Malacca"},
+    {"id": "A3", "file": "PIR05-wikipedia-2026-johor-state-election-bnpas-pact.md", "source": "Wikipedia EN — 2026 Johor state election", "pir": "PIR-05/10", "tag": "CRITICAL", "confidence": "HIGH", "note": "BN 48/56; informal BN-PAS pact (Muafakat reactivation); BERSAMA debut"},
+    {"id": "A4", "file": "PIR05-09-wikipedia-perikatan-nasional-pn-structure.md", "source": "Wikipedia EN — Perikatan Nasional", "pir": "PIR-05/09", "tag": "CRITICAL", "confidence": "HIGH", "note": "PN structure; PAS-BERSATU break 8 Jun 2026; PAS dominates leadership; Malacca 3 MPs"},
+    {"id": "A5", "file": "PIR05-wikipedia-muafakat-nasional-mn-ngo.md", "source": "Wikipedia EN — Muafakat Nasional", "pir": "PIR-05", "tag": "CRITICAL", "confidence": "HIGH", "note": "MN now NGO; Malacca chair = Jailani Khamis (now PN-PAS ADUN)"},
+    {"id": "A6", "file": "PIR05-wikipedia-2021-malacca-state-election-baseline.md", "source": "Wikipedia EN — 2021 Malacca state election", "pir": "PIR-05/09", "tag": "CRITICAL", "confidence": "HIGH", "note": "Baseline BN21/PH5/PN2; BN-PN competed; Mas Ermieyati lost Tanjung Bidara to Ab Rauf"},
+    {"id": "A7", "file": "PIR09-wikipedia-bersatu-electoral-freefall.md", "source": "Wikipedia EN — BERSATU", "pir": "PIR-09", "tag": "HIGH", "confidence": "HIGH", "note": "BERSATU freefall; 1 Malacca MP (Mas Ermieyati); identity crisis"},
+    {"id": "A8", "file": "PIR09-wikipedia-samsuri-pn-chairman.md", "source": "Wikipedia EN — Ahmad Samsuri Mokhtar", "pir": "PIR-09/05", "tag": "HIGH", "confidence": "HIGH", "note": "PN chairman; 28-day Opposition Leader (shortest ever); resolves Hamzah→Samsuri→Hamzah"},
+    {"id": "A9", "file": "PIR05-09-wikipedia-perikatan-nasional-ms.md", "source": "Wikipedia BM — Perikatan Nasional", "pir": "PIR-05/09", "tag": "HIGH", "confidence": "HIGH", "note": "Malay PN page; Hamzah = Opposition Leader (parliament); Samsuri = PN chairman (party)"},
+    {"id": "A10", "file": "PIR05-10-wikipedia-2025-sabah-state-election-context.md", "source": "Wikipedia EN — 2025 Sabah state election", "pir": "PIR-05/10", "tag": "HIGH (context)", "confidence": "HIGH", "note": "PH collapse to 1 seat; DAP lost all; PH-decline precedent"},
+    {"id": "A11", "file": "PIR05-wikipedia-rafizi-bersama-malacca-focus.md", "source": "Wikipedia EN — Rafizi Ramli", "pir": "PIR-05", "tag": "HIGH", "confidence": "HIGH", "note": "BERSAMA new party targeting Melaka PRN; rejected coalition talks; vote-splitter risk"},
+    {"id": "C1", "file": "CONTEXT-malaymail-melaka-tag-20260804.md", "source": "Malay Mail — Melaka tag (404) + sidebar", "pir": "PIR-05/10", "tag": "HIGH (context)", "confidence": "MEDIUM", "note": "DAP putting gov role to vote; Loke resigned NS DAP chief"}
+  ],
+  "sibling_context_consumed": [
+    "01-DAILY-INTELLIGENCE/cj-mlk-01-executive-leadership-20260805-0017MYT.md (Akmal-Zahid split; Muafakat revival; Aug 2-4 Melaka reshuffle signals)",
+    "01-DAILY-INTELLIGENCE/cj-mlk-02-defence-parliament-20260805-0027MYT.md (Adly = PH Melaka+Kelantan chair, AMANAH VP, sole AMANAH MLA; Mas Ermieyati unverified BERSATU suspension; Adam Adli acting PKR Melaka chair)",
+    "07-AUDIT/top3-mlk-suggestions-CJMLK01.md (reshuffle; KK Mart impact; Ab Rauf-Zahid/Tok Mat relationship)",
+    "07-AUDIT/top3-mlk-suggestions-CJMLK02.md (verify Mas Ermieyati suspension; Adly MINDEF/Melaka nexus; Adam Adli parliamentary performance)"
+  ],
+  "key_thematic_findings": [
+    "Melaka PRN is 1-3 months away (≤Nov 2026, possibly Sep; 120-day window from 17 May 2026)",
+    "Melaka BN-PH state coalition COLLAPSED Jul 2026 (PH withdrew over 7-unequent-seats amendment, 23-5, defying Anwar)",
+    "Informal BN-PAS pact (de facto Muafakat reactivation) won Johor 48/56 + NS 25/36; BERSATU wiped out",
+    "PAS cut ties with BERSATU 8-9 Jun 2026; PN electoral machine now PAS-run (Samsuri chairman, Sanusi elections director)",
+    "BERSATU in electoral freefall (Sabah Nov 2025, Johor Jul 2026, NS Aug 2026 = all 0 seats)",
+    "BERSAMA (Rafizi Ramli) new party targeting Melaka PRN; rejected coalition talks; 4-way contest + vote-splitter risk",
+    "Current Melaka assembly: BN 20 / PH 5 / PN 3 (split BERSATU 1, PAS 1, WAWASAN 1)",
+    "Adly Zahari led PH's state-govt withdrawal (16 Jul), defying Anwar — autonomy assertion but electorally exposed",
+    "Jailani Khamis = MN Malacca chairman AND PN-PAS ADUN Rembia — UMNO-PAS realignment nexus",
+    "Mas Ermieyati: BERSATU freefall + party isolated in PAS-run PN; Masjid Tanah seat imperilled; suspension UNVERIFIED (not corroborated this cycle)"
+  ],
+  "unverified_signals": [
+    "Mas Ermieyati BERSATU membership 'suspended since 2026' (EN-Wikipedia, CJ-MLK-02) — NOT corroborated by BERSATU page this cycle; remains UNVERIFIED; #1 next-cycle priority"
+  ],
+  "limitations": [
+    "Search backend structurally non-functional for Malaysian political content (3-cycle confirmation)",
+    "Evidence base is reference/structural (Wikipedia) + context (sibling cycles + Malay Mail sidebar), not current-event news",
+    "Malay Mail Melaka tag = 404 (no dedicated Melaka news feed)",
+    "2026 Malacca state election page extraction truncated at N24 (N25-N28 + analysis section not captured)",
+    "WAWASAN state seat inferred (likely Bemban) not confirmed from truncated text"
+  ],
+  "files_produced": [
+    "01-DAILY-INTELLIGENCE/cj-mlk-03-coalition-dynamics-20260805-0038MYT.md",
+    "07-AUDIT/top3-mlk-suggestions-CJMLK03.md",
+    "04-DATA-AND-SOURCES/scratch/cj-mlk-03-cycle-20260805-0038-metadata.json",
+    "12 raw scrapes in 04-DATA-AND-SOURCES/raw-scrapes/20260805/"
+  ],
+  "silent_rule": "NOT SILENT — 12 new primary sources collected; PIR-05 substantially resolved; major new findings (PRN timing, coalition collapse, PAS-BERSATU break, BERSAMA entry)."
+}

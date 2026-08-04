@@ -1,0 +1,148 @@
+{
+  "cronjob": "CJ-MLK-01",
+  "label": "Executive Leadership & Governance",
+  "cycle_timestamp": "2026-08-05 00:17 MYT",
+  "collection_date_dir": "20260805",
+  "pirs_addressed": ["PIR-POI-MLK-01", "PIR-POI-MLK-02", "PIR-POI-MLK-06", "PIR-POI-MLK-07", "PIR-POI-MLK-08"],
+  "auto_approved_suggestions_file": "NOT FOUND (first cycle — no 07-AUDIT/top3-mlk-suggestions-CJMLK01.md existed)",
+  "search_queries_run": [
+    "\"Ab Rauf Yusoh\" Melaka policy 2026",
+    "\"Muhamad Akmal Saleh\" statement controversy 2026",
+    "\"Ketua Menteri Melaka\" dasar governance",
+    "\"Akmal UMNO Youth\" boycott OR controversial",
+    "\"Ab Rauf Yusoh\" Zahid OR \"Tok Mat\" OR federal",
+    "\"Pemuda UMNO\" Melaka mobilization grassroots",
+    "\"Akmal Saleh\" succession OR \"Supreme Council\" UMNO",
+    "\"Ab Rauf Yusoh\" EXCO Melaka policy",
+    "\"Akmal\" BN multiracial electoral impact DAP",
+    "\"Ab Rauf Yusoh\" candidate selection Melaka UMNO",
+    "Muhamad Akmal Saleh Zahid Hamidi UMNO relationship",
+    "Akmal Saleh Merlimau UMNO Youth Melaka grassroots",
+    "Muhamad Akmal Saleh boycott KK Mart campaign",
+    "Ab Rauf Yusoh Melaka Majlis Tertinggi UMNO calon",
+    "Rauf Yusoh Zahid Hamidi Tok Mat UMNO Melaka",
+    "Pemuda UMNO Merlimau Akmal program rakyat kempen",
+    "Akmal Saleh Negri Sembilan PRN BN PN calon",
+    "Melaka DUN pembubaran PRN 2026 Ab Rauf",
+    "bncomms.my Ab Rauf Yusoh Melaka 2026"
+  ],
+  "search_backend_issues": "Backend poorly indexes Malaysian outlets; queries containing 'AB' matched AllianceBernstein/Rockwell; 'Akmal' matched Russian singer; site: operators returned empty. Productive results came from first-batch generic queries + web_extract of discovered URLs. Kosmo.com.my blocks scraping (document_antibot).",
+  "articles_collected": [
+    {
+      "id": "A1",
+      "source": "BN Comms (bncomms.my)",
+      "url": "https://bncomms.my/2026/04/21/perancangan-negeri-melaka-berpaksikan-kesejahteraan-rakyat-ab-rauf/",
+      "title": "Perancangan Negeri Melaka Berpaksikan Kesejahteraan Rakyat – Ab Rauf",
+      "date": "2026-04-21",
+      "pir": "PIR-01",
+      "priority": "CRITICAL",
+      "confidence": "HIGH",
+      "extraction": "full",
+      "file": "PIR01-bncomms-abrauf-governance-maim-mcorp-20260421.md",
+      "summary": "Ab Rauf chairs MAIM + MCorp board meetings (Bil.1/2026). Governance agenda: people-centric 'Melaka Sayang Rakyat' (MeSRa); pillars = religious affairs, education, state finance. 3 budget agendas: economic development, human capital/welfare, governance/integrity."
+    },
+    {
+      "id": "A2",
+      "source": "MYKMU.NET (UMNO Online)",
+      "url": "https://mykmu.net/2026/04/22/perancangan-negeri-melaka-berpaksikan-kesejahteraan-rakyat-ab-rauf/",
+      "title": "Perancangan Negeri Melaka Berpaksikan Kesejahteraan Rakyat – Ab Rauf (Kampung Digital)",
+      "date": "2026-04-21",
+      "pir": "PIR-01",
+      "priority": "CRITICAL",
+      "confidence": "HIGH",
+      "extraction": "full",
+      "file": "PIR01-mykmu-abrauf-kampung-digital-governance-20260421.md",
+      "summary": "Same event as A1; MYKMU frames Kampung Digital initiative as proof of UMNO governing competence = federal-alignment narrative (state policy projected as UMNO delivery).",
+      "corroborates": "A1"
+    },
+    {
+      "id": "A3",
+      "source": "The Star",
+      "url": "https://www.thestar.com.my/news/nation/2026/07/26/akmal-saleh-says-his-fight-is-against-dap-and-pakatan-not-chinese-or-indians",
+      "title": "Akmal Saleh says his fight is against DAP and Pakatan, not Chinese or Indians",
+      "date": "2026-07-26",
+      "pir": "PIR-02",
+      "priority": "CRITICAL",
+      "confidence": "HIGH",
+      "extraction": "full",
+      "file": "PIR02-star-akmal-fight-dap-not-chinese-20260726.md",
+      "summary": "Freshest Akmal rhetoric (ceramah Linggi/Port Dickson, Negri Sembilan). Draws 3R red lines (religion/race/rulers), dares govt to arrest him, confirms UMNO Youth excluded Pakatan from 2023 assembly. Exporting rhetoric to NS state polls battleground."
+    },
+    {
+      "id": "A4",
+      "source": "Kosmo Digital",
+      "url": "https://www.kosmo.com.my/2026/02/05/dr-muhamad-akmal-nafi-bikin-drama-serius-letak-jawatan-exco/",
+      "title": "Dr. Muhamad Akmal nafi bikin drama, serius letak jawatan Exco",
+      "date": "2026-02-05",
+      "pir": "PIR-02, PIR-08",
+      "priority": "CRITICAL",
+      "confidence": "HIGH",
+      "extraction": "full",
+      "file": "PIR02-08-kosmo-akmal-resigns-exco-20260205.md",
+      "summary": "Akmal resigned Melaka EXCO 19 Jan 2026 (letter via Ab Rauf to Governor). Selective resignation = pressure on Zahid while keeping Youth chief. Sidebar reveals very recent (Aug 2-4 2026) Melaka admin reshuffle: '3 Exco BN kekal pentadbiran baharu', 'Ab Rauf pertahan kemenangan BN'."
+    },
+    {
+      "id": "A5",
+      "source": "New Straits Times",
+      "url": "https://www.nst.com.my/news/nation/2026/02/1376774/akmal-saleh-im-not-anti-chinese-my-issues-dap-are-about-policy",
+      "title": "Akmal Saleh: I'm not anti-Chinese, my issues with DAP are about policy",
+      "date": "2026-02-12",
+      "pir": "PIR-02",
+      "priority": "CRITICAL",
+      "confidence": "HIGH",
+      "extraction": "full",
+      "file": "PIR02-nst-akmal-not-anti-chinese-keluar-sekejap-20260212.md",
+      "summary": "Keluar Sekejap podcast (with Khairy). Multiracial-inoculation: 'mother-in-law is Chinese'; 'DAP has chauvinist DNA, 10-20 yrs to change'. Cites working relationship with Melaka DAP deputy exco = federal/state posture split. Names boycott triggers: flag, Allah socks, UEC, Kampung Baru."
+    },
+    {
+      "id": "A6",
+      "source": "Malay Mail",
+      "url": "https://www.malaymail.com/news/malaysia/2026/01/09/speculation-swirls-but-umno-sec-gen-says-akmal-is-still-in-youth-chief-post/204830",
+      "title": "Speculation swirls, but Umno sec-gen says Akmal is still in Youth chief post",
+      "date": "2026-01-09",
+      "pir": "PIR-08, PIR-02",
+      "priority": "HIGH (CRITICAL cross-cut)",
+      "confidence": "HIGH",
+      "extraction": "full",
+      "file": "PIR08-malaymail-akmal-zahid-muafakat-nasional-20260109.md",
+      "summary": "KEYSTONE PIR-08: Akmal proposed UMNO leave federal govt + revive Muafakat Nasional with PAS; Zahid rejected both. Akmal hinted resignation. Asyraf Wajdi = mediating 'elder brother' who placed Akmal in Youth chief role. Akmal-Zahid policy split = engine of national rhetoric."
+    }
+  ],
+  "secondary_references_unverified": [
+    {
+      "source": "The Star sidebar (cited in A3)",
+      "title": "Melaka Barisan likely to retain most incumbents for state polls",
+      "date_approx": "2026-07-25",
+      "pir": "PIR-06",
+      "note": "Referenced as '1 day ago' in A3 sidebar. Not directly scraped. Relevant to Ab Rauf candidate selection autonomy."
+    },
+    {
+      "source": "Kosmo sidebar (cited in A4)",
+      "title": "3 Exco BN dijangka kekal dalam pentadbiran baharu",
+      "date": "2026-08-04",
+      "pir": "PIR-01, PIR-06",
+      "note": "Kosmo anti-bot blocked scrape. Indicates fresh Melaka admin reshuffle underway as of collection date; Akmal's vacated EXCO slot being redistributed."
+    },
+    {
+      "source": "Kosmo sidebar (cited in A4)",
+      "title": "Giliran Melaka pula pertahan kemenangan BN – Ab. Rauf",
+      "date": "2026-08-02",
+      "pir": "PIR-01, PIR-06",
+      "note": "Ab Rauf framing Melaka as next BN defense; suggests PRN/electoral context."
+    },
+    {
+      "source": "Kosmo sidebar (cited in A4)",
+      "title": "Ramalan saya hampir tepat, BN-PN mampu kuasai Melaka",
+      "date": "2026-08-02",
+      "pir": "PIR-05 (cross-coalition context)",
+      "note": "Coalition/PRN context — BN-PN capability over Melaka."
+    }
+  ],
+  "pir_resolution_status": {
+    "PIR-POI-MLK-01": {"status": "Partial", "confidence": "HIGH", "note": "Governance agenda (MeSRa, MAIM/MCorp, Kampung Digital) well-documented. Federal-alignment angle = state policy projected as UMNO delivery (MYKMU framing). Candidate-selection/roadmap-2026 detail still thin."},
+    "PIR-POI-MLK-02": {"status": "Partial→Resolved", "confidence": "HIGH", "note": "Rhetoric trajectory strongly documented across Jan-Jul 2026: 3R red lines, arrest dare, DAP-chauvinist-DNA doctrine, boycott inventory, multiracial inoculation. National/NS electoral export captured. Measurable electoral-impact data still needed."},
+    "PIR-POI-MLK-06": {"status": "Open", "confidence": "MEDIUM", "note": "Only indirect: Akmal EXCO resignation routed through Ab Rauf; sidebar refs to 'Melaka BN retain incumbents' & 'Ab Rauf pertahan kemenangan BN'. Direct Ab Rauf-Zahid/Tok Mat relationship evidence NOT yet collected."},
+    "PIR-POI-MLK-07": {"status": "Open", "confidence": "LOW", "note": "Weakest PIR. Only indirect evidence: Akmal = ADUN Merlimau; cited Melaka DAP deputy-exco working relationship; exported mobilization to NS/Kinabatangan. No direct Merlimau grassroots/Youth-campaign-on-the-ground data collected this cycle."},
+    "PIR-POI-MLK-08": {"status": "Partial→Resolved", "confidence": "HIGH", "note": "Keystone: Akmal-Zahid split (leave fed govt + Muafakat Nasional revival, both rejected). Asyraf Wajdi as mediator. Selective resignation tactic. Succession-as-internal-opposition doctrine established."}
+  }
+}

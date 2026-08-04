@@ -1,0 +1,23 @@
+{"file":"PIR14-wikipedia-bukit-katil-hang-tuah-jaya-shamsul-seats","timestamp":"2026-08-05 01:11 +08","entities":{
+"pois":[
+{"name":"Adly Zahari","mentions":1}
+,
+{"name":"Adam Adli","mentions":8}
+,
+{"name":"Shamsul Iskandar","mentions":8}
+,
+{"name":"Rahmad Mariman","mentions":1}
+,
+{"name":"Kerk Chee Yee","mentions":1}
+],
+"dun_seats":[
+{"constituency":"Pengkalan Batu","mentions":1}
+,
+{"constituency":"Ayer Keroh","mentions":2}
+,
+{"constituency":"Bukit Katil","mentions":10}
+,
+{"constituency":"Ayer Molek","mentions":2}
+,
+{"constituency":"Rim","mentions":1}
+]}}

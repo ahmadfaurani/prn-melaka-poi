@@ -1,0 +1,90 @@
+{
+  "cronjob": "CJ-MLK-02 (Defence, Parliament & Federal Portfolios)",
+  "cycle": "2026-08-05 00:27 MYT",
+  "collector": "CJ-MLK-02 Collection Agent (zai-org/GLM-5.2)",
+  "classification": "TLP:AMBER",
+  "pirs_addressed": {
+    "PIR-POI-MLK-03": { "title": "Adly Zahari — Defence Portfolio & Melaka Nexus", "priority": "CRITICAL", "status_after_cycle": "PARTIAL" },
+    "PIR-POI-MLK-04": { "title": "Mas Ermieyati — PAC Scrutiny Targets", "priority": "CRITICAL", "status_after_cycle": "PARTIAL" },
+    "PIR-POI-MLK-11": { "title": "Adam Adli — Parliamentary Trajectory & Ministerial Prospects", "priority": "HIGH", "status_after_cycle": "PARTIAL" }
+  },
+  "pois": {
+    "Adly Zahari": { "role": "Timbalan Menteri Pertahanan (Deputy Defence Minister), MP Alor Gajah, PH Malacca+Kelantan chairman", "source_confidence": "HIGH (Wikipedia EN+BM, MINDEF Wikipedia)" },
+    "Mas Ermieyati Samsudin": { "role": "PAC Chairperson, MP Masjid Tanah, BERSATU Srikandi Chief (membership reportedly suspended 2026)", "source_confidence": "HIGH for role; UNVERIFIED for BERSATU suspension signal" },
+    "Adam Adli": { "role": "Timbalan Menteri Pendidikan Tinggi (since Dec 2025), MP Hang Tuah Jaya, Acting PKR Melaka chair", "source_confidence": "HIGH (Wikipedia EN+BM, Anwar cabinet Wikipedia)" }
+  },
+  "search_queries_executed": [
+    "\"Adly Zahari\" Timbalan Menteri Pertahanan OR defence OR mindef",
+    "\"Mas Ermieyati\" PAC OR \"Public Accounts Committee\" OR audit OR scrutiny",
+    "\"Adam Adli\" Parlimen OR parliamentary OR ministerial OR PKR",
+    "Adly Zahari Melaka defence TLDM military",
+    "PAC Parlimen 2026 investigation report Malaysia",
+    "Adam Adli Hang Tuah Jaya policy statement 2026",
+    "Adly Zahari Amanah PH leadership Melaka",
+    "Mas Ermieyati Bersatu OR PN Melaka strategy",
+    "Timbalan Menteri Pertahanan Malaysia 2026",
+    "Public Accounts Committee Malaysia chairperson 2026",
+    "Adly Zahari deputy defence minister Malaysia Alor Gajah",
+    "Mas Ermieyati Samsudin PAC chairperson Malaysia Masjid Tanah",
+    "Adam Adli deputy minister higher education Malaysia",
+    "TLDM naval base Lumut Melaka defence industry Malaysia",
+    "MINDEF Malaysia defence minister 2026 procurement",
+    "\"Adam Adli\" menteri pendidikan tinggi OR higher education Melaka",
+    "Jawatankuasa Kira Wang Negara 2026 laporan audit",
+    "\"Public Accounts Committee\" Malaysia report 2025 2026 government spending",
+    "deputy defence minister Malaysia MINDEF 2026 Khaled Nordin",
+    "Hang Tuah Jaya constituency MP PKR Melaka 2026",
+    "Terendak garrison Melaka army camp Malaysia military base",
+    "\"Adam Adli\" Hang Tuah Jaya",
+    "\"Kem Terendak\" Melaka Alor Gajah tentera darat",
+    "Malaysian Army bases Terendak Sungai Udang camp list",
+    "gantung keahlian BERSATU 2026 ahli parlimen",
+    "rombakan kabinet 2025 Disember timbalan menteri pendidikan tinggi",
+    "BERSATU gantung keahlian ahli parlimen PN 2026",
+    "Ermieyati BERSATU gantung keahlian PAC pengerusi 2026"
+  ],
+  "search_backend_outcome": "STRUCTURAL FAILURE — ~20 web_search queries returned ZERO relevant Malaysian results. Token collisions: 'Mas'→Microsoft Activation Scripts/Monetary Authority of Singapore; 'Adam'→Biblical Adam; 'Public'→public.com/Cambridge dictionary; 'Deputy'→deputy.com scheduling software; 'Hang'→Merriam-Webster/Hang Seng Bank; 'MINDEF'→Singapore MINDEF; 'Terendak'→Room to Read. Only 'TLDM' and 'Jawatankuasa Kira Wang Negara' surfaced useful (navy.mil.my, parlimen.gov.my). Productive yield came ENTIRELY from direct web_extract of Wikipedia + official government URLs, not from search.",
+  "urls_extracted_via_web_extract": [
+    "https://en.wikipedia.org/wiki/Adly_Zahari",
+    "https://en.wikipedia.org/wiki/Mas_Ermieyati_Samsudin",
+    "https://en.wikipedia.org/wiki/Adam_Adli",
+    "https://en.wikipedia.org/wiki/Royal_Malaysian_Navy",
+    "https://en.wikipedia.org/wiki/Ministry_of_Defence_(Malaysia)",
+    "https://en.wikipedia.org/wiki/Malaysian_Army",
+    "https://en.wikipedia.org/wiki/Anwar_Ibrahim_cabinet",
+    "https://ms.wikipedia.org/wiki/Adly_Zahari",
+    "https://ms.wikipedia.org/wiki/Adam_Adli",
+    "https://ms.wikipedia.org/wiki/Mas_Ermieyati_Samsudin",
+    "https://parlimen.gov.my/jawatankuasa-dr.html?uweb=dr",
+    "https://parlimen.gov.my/pac",
+    "https://parlimen.gov.my/ahli-jawatankuasa.html",
+    "https://parlimen.gov.my/publication-details.html?id=66",
+    "https://www.malaymail.com/news/malaysia"
+  ],
+  "raw_scrapes_saved": [
+    "PIR03-wikipedia-adly-zahari-profile.md",
+    "PIR03-wikipedia-mindef-malaysia-adly-deputy.md",
+    "PIR03-wikipedia-malaysian-army-melaka-nexus.md",
+    "PIR03-wikipedia-royal-malaysian-navy-tldm.md",
+    "PIR04-wikipedia-mas-ermieyati-pac-profile.md",
+    "PIR04-parlimen-gov-my-pac-official-pages.md",
+    "PIR11-wikipedia-adam-adli-profile.md",
+    "PIR11-wikipedia-anwar-cabinet-reshuffle-context.md",
+    "CONTEXT-malaymail-malaysia-news-index-20260804.md"
+  ],
+  "key_findings": {
+    "melaka_defence_nexus": "3rd Division + 10th Parachute Brigade HQ in Malacca (Malaysian Army Wikipedia) — structural land/airborne concentration in Adly's home state; TLDM HQ is Lumut (Perak), NOT Malacca",
+    "mas_ermieyati_bersatu_suspension_signal": "EN Wikipedia states 'BERSATU membership suspended since 2026'; BM Wikipedia does NOT mention it; unverified — highest-priority signal for PIR-04",
+    "adam_adli_dec2025_advancement": "Moved Deputy Youth & Sports → Deputy Higher Education (16/17 Dec 2025) + became Acting PKR Melaka chairman; now serves under BN-UMNO minister Zambry",
+    "current_political_env": "NS state election DAP/PH defeat → Anthony Loke resigned NS DAP chair; DAP putting government role to vote; active MACC/RCI Tabung Haji corruption probes; Dewan Negara adjourned (12 Bills)",
+    "adly_2023_non_promotion": "Speculated for Domestic Trade minister (post-Salahuddin death Jul 2023) but Armizan Mohd Ali (GRS) appointed instead — documented non-advancement",
+    "mindef_2026_budget": "MYR 21.746 billion (2026); DIPKN policy (Mar 2023); Procurement + Defence Industry divisions under Adly's deputy purview"
+  },
+  "open_gaps": [
+    "PIR-03: No 2026-specific defence initiatives/statements by Adly captured; no Melaka-specific procurement/defence-industry investment data",
+    "PIR-04: No 2026 PAC agenda/scrutiny targets obtained; official PAC pages 404/JS-rendered; BERSATU suspension unverified",
+    "PIR-11: No 2026 parliamentary performance data (Dewan Rakyat questions/speeches) or current policy statements; no evidence of imminent full-minister promotion"
+  ],
+  "auto_approved_suggestions_consumed": "NONE — 07-AUDIT/top3-mlk-suggestions-CJMLK02.md did not exist (first CJ-MLK-02 cycle)",
+  "next_cycle_suggestions_written_to": "07-AUDIT/top3-mlk-suggestions-CJMLK02.md"
+}

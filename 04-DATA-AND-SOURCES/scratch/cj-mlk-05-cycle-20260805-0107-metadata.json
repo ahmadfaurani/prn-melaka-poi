@@ -1,0 +1,43 @@
+{
+  "cronjob": "CJ-MLK-05",
+  "cycle": "2026-08-05 01:07 MYT",
+  "brief_date": "20260805",
+  "is_inaugural": true,
+  "prior_suggestions_consumed": null,
+  "collection_reports_synthesized": [
+    "cj-mlk-01-executive-leadership-20260805-0017MYT.md",
+    "cj-mlk-02-defence-parliament-20260805-0027MYT.md",
+    "cj-mlk-03-coalition-dynamics-20260805-0038MYT.md",
+    "cj-mlk-04-grassroots-secondary-20260805-0054MYT.md"
+  ],
+  "pir_registry": "07-AUDIT/pir-poi-mlk-top15-20260804.md",
+  "pirs_tracked": "PIR-01 through PIR-15 (Top-15 scope)",
+  "outputs": {
+    "daily_brief": "01-DAILY-INTELLIGENCE/daily-briefs/PRN-MLK-DAILY-20260805.md",
+    "suggestions": "07-AUDIT/top3-mlk-suggestions-CJMLK05.md"
+  },
+  "pir_status_summary": {
+    "resolved": ["PIR-08", "PIR-14"],
+    "resolved_partial_open": ["PIR-15"],
+    "substantially_resolved_open": ["PIR-05"],
+    "partial": ["PIR-01", "PIR-03", "PIR-09", "PIR-12"],
+    "partial_open": ["PIR-02", "PIR-04", "PIR-10", "PIR-11"],
+    "advanced": ["PIR-13"],
+    "open": ["PIR-06", "PIR-07"]
+  },
+  "top3_suggestions": [
+    "Verify Mas Ermieyati BERSATU membership suspension (PIR-04/09)",
+    "Melaka PRN candidate lists & seat allocations (PIR-05 core)",
+    "Ab Rauf federal-state autonomy & Aug reshuffle (PIR-06)"
+  ],
+  "critical_alerts": [
+    "Melaka BN-PH state coalition COLLAPSED (PH withdrew 14-16 Jul 2026)",
+    "Melaka PRN imminent (<=Nov 2026, possibly Sep)",
+    "7-unelected-seats amendment = coalition-engineering lock-in (passed 23-5)",
+    "Unverified: Mas Ermieyati BERSATU membership suspended since 2026",
+    "BERSATU electoral freefall + PAS-BERSATU break (8-9 Jun 2026)",
+    "Informal BN-PAS pact (de facto Muafakat reactivation) winning state elections",
+    "BERSAMA (Rafizi) targeting Melaka PRN = vote-splitter risk"
+  ],
+  "structural_limitation": "web_search backend fails across ALL 4 collector cycles; all intelligence from direct web_extract of Wikipedia/gov pages, not news search"
+}

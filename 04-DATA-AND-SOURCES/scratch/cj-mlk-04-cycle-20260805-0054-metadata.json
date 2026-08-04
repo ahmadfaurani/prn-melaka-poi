@@ -1,0 +1,54 @@
+{
+  "cronjob": "CJ-MLK-04",
+  "title": "Grassroots & Secondary POI Collection",
+  "cycle": "2026-08-05 00:54 MYT (inaugural cycle)",
+  "pirs_addressed": ["PIR-POI-MLK-12", "PIR-POI-MLK-13", "PIR-POI-MLK-14", "PIR-POI-MLK-15"],
+  "pois": {
+    "PIR-12": "Zulkifli Ismail (PN/PAS) — Jasin MP",
+    "PIR-13": "Mohd Noor Helmy Abdul Halem (BN/UMNO) — Duyong ADUN, Deputy EXCO",
+    "PIR-14": "Shamsul Iskandar @ Yusre Mohd Akin (PKR) — former MP",
+    "PIR-15": "Bakri Jamaluddin (PN/PAS) — Tangga Batu MP"
+  },
+  "prior_suggestions_file": null,
+  "search_queries_executed": 8,
+  "search_queries_useful": 1,
+  "search_backend_status": "STRUCTURALLY BROKEN — all 8 queries returned irrelevant content (Vietnamese banking, Italian furniture, Bali tourism, property listings, name disambiguation). Only query 4 surfaced a useful URL (Members of Dewan Rakyat 15th Parliament). Consistent with CJ-MLK-01/02/03 findings.",
+  "web_extracts_executed": 10,
+  "web_extracts_productive": 10,
+  "raw_scrapes_saved": [
+    "PIR12-wikipedia-jasin-federal-constituency-zulkifli.md",
+    "PIR15-wikipedia-tangga-batu-federal-constituency-bakri.md",
+    "PIR14-wikipedia-shamsul-iskandar-person-profile-keystone.md",
+    "PIR13-wikipedia-malacca-state-executive-council.md",
+    "PIR13-wikipedia-duyong-state-constituency-helmy.md",
+    "PIR14-wikipedia-bukit-katil-hang-tuah-jaya-shamsul-seats.md",
+    "PIR12-14-15-wikipedia-dewan-rakyat-15th-parliament-mp-verification.md",
+    "PIR12-wikipedia-pas-malaysian-islamic-party.md",
+    "PIR12-13-15-wikipedia-2021-malacca-state-election-context.md"
+  ],
+  "key_findings": {
+    "PIR-12": {
+      "mp_status": "CONFIRMED — Zulkifli Ismail = Jasin MP (PN/PAS) since 2022; won by 322 votes (0.42%); PN gain from BN; contested Tangga Batu 2018 under PAS (lost).",
+      "pas_melaka_commissioner_title": "UNCONFIRMED — Wikipedia confirms MP/affiliation but NOT the state commissioner title. ms.wikipedia Zulkifli Ismail = a different person (actor). Open verification item."
+    },
+    "PIR-13": {
+      "role": "CONFIRMED — Mohd Noor Helmy = Deputy (Timbalan) EXCO, portfolio Science/Tech/Innovation/Digital Communications (mirrors full EXCO Fairul Nizam Roslan); ADUN Duyong (N21).",
+      "seat_marginality": "MARGINAL — won Duyong 2021 by 200 votes (1.65%); first UMNO holder of former-MCA seat.",
+      "exo_stale_caveat": "EXCO page reflects pre-July-2026 BN+PH coalition; PH withdrew 14-16 Jul 2026 (per CJ-MLK-03); page not updated."
+    },
+    "PIR-14": {
+      "status": "SUBSTANTIALLY RESOLVED — Shamsul NOT an MP since Nov 2022; resigned as Senior Political Secretary to PM 25 Nov 2025; faces 4 corruption charges (Dec 2025, Sabah mineral license); re-entry BLOCKED. Old seat Hang Tuah Jaya held by Adam Adli (PKR).",
+      "faction": "Reformist/Anwar wing of PKR (former VP alongside Rafizi Ramli); now outside PKR mainstream."
+    },
+    "PIR-15": {
+      "affiliation": "CONFIRMED — Bakri Jamaluddin = Tangga Batu MP (PN/PAS) since 2022; won 40.65%, majority 8,849 (9.62%); PN gain from PKR.",
+      "parliamentary_engagement": "OPEN — MP status/affiliation confirmed; specific parliamentary activity (speeches/questions/committees) not captured (Dewan Rakyat page truncated; parlimen.gov.my not attempted)."
+    }
+  },
+  "cross_pir_nexus": "Tangga Batu is a recurring battleground: Shamsul (PIR-14) contested 2004 (lost), Zulkifli (PIR-12) contested 2018 (lost), Bakri (PIR-15) won 2022. Shamsul's old seat (Bukit Katil→Hang Tuah Jaya) now held by Adam Adli (PIR-11).",
+  "verification_gates": {
+    "PIR-14": "CONFIRMED (current status found — corruption case, resignation, no elected office)",
+    "PIR-15": "CONFIRMED (affiliation PN/PAS verified via Wikipedia electoral data)"
+  },
+  "top3_suggestions_file": "07-AUDIT/top3-mlk-suggestions-CJMLK04.md"
+}
