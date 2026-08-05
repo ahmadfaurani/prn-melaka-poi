@@ -1,0 +1,36 @@
+{
+  "cronjob": "CJ-MLK-03",
+  "cycle": "2026-08-05 13:12 MYT",
+  "collector": "CJ-MLK-03 Collection Agent (zai-org/GLM-5.2)",
+  "pirs_addressed": ["PIR-POI-MLK-05", "PIR-POI-MLK-09", "PIR-POI-MLK-10"],
+  "search_backend_status": "FUNCTIONAL this cycle (contrast: broken across 3 prior cycles). 6 web_search queries returned relevant Malaysian political content. 2 queries still returned tourism/spam (Melaka PRN calon, Adly Zahari Amanah). Direct web_extract of 8 news URLs (2 blocked by antibot: Bharian + Hmetro).",
+  "auto_approved_suggestions_consumed": 3,
+  "suggestion_1_status": "ADDRESSED — Wikipedia keystone re-extracted with full N01-N28 incumbents (N24 Bemban=WAWASAN confirmed, N27 Merlimau=Akmal confirmed). Candidate lists still pending (election 1-3 months away).",
+  "suggestion_2_status": "RESOLVED — Mas Ermieyati BERSATU suspension VERIFIED via FMT (10 Mar 2026, 2 terms, factional reason). #1 open verification target from cycles 1-2 now closed.",
+  "suggestion_3_status": "ADDRESSED — BERSAMA Melaka strategy documented (Utusan 8 Jun, MalaysiaPost 8 Jun, bersama.org official, Rafizi Facebook). Ground ops launch 8 Aug 2026. Solo, no coalition talks.",
+  "new_raw_scrapes": [
+    "PIR09-fmt-mas-ermieyati-bersatu-suspended-20260310-KEYSTONE.md",
+    "PIR05-utusan-bersama-calon-prn-melaka-ogos-20260608.md",
+    "PIR05-bersama-org-official-platform.md",
+    "PIR10-fmt-adly-ph-kerjasama-bn-adun-lantikan-20260426.md",
+    "PIR10-bernama-adly-ph-politik-nilai-20260802.md",
+    "PIR10-malaysiagazette-adly-blok-kerajaan-20260715.md",
+    "PIR05-mediacorp-abrauf-bn-plus-20260802.md",
+    "PIR05-fmt-adly-appointed-reps-analyst-20260428.md",
+    "PIR05-malaysiapost-bersama-calon-prn-melaka-awal-ogos-20260608.md",
+    "PIR05-09-10-wikipedia-2026-malacca-state-election-UPDATED-keystone.md",
+    "PIR09-wikipedia-mas-ermieyati-suspension-corroboration.md"
+  ],
+  "cvs_claims_appended": 8,
+  "cvs_claim_ids": ["CVS-MLK-121", "CVS-MLK-122", "CVS-MLK-123", "CVS-MLK-124", "CVS-MLK-125", "CVS-MLK-126", "CVS-MLK-127", "CVS-MLK-128"],
+  "key_breakthrough": "Search backend FUNCTIONAL this cycle — first time Malaysian news retrieved via web_search. Previous cycles 1-2 reported backend 'structurally broken'; this cycle 4 of 6 queries returned relevant Malaysian political news. This enabled VERIFICATION of the Mas Ermieyati BERSATU suspension (cycles 1-2 #1 open target) and documentation of BERSAMA + Adly + BN Plus strategies via direct news extraction.",
+  "key_findings": [
+    "Mas Ermieyati BERSATU suspension VERIFIED (10 Mar 2026, 2 terms, factional — attended Hamzah Reset program + met Zahid; all party positions stripped; won't appeal)",
+    "BERSAMA ground ops launch in Melaka 8 Aug 2026 (this week); solo, no coalition, candidates by early August",
+    "BN Plus formula (Ab Rauf 2 Aug) — open to cooperation, NS BN+PN template as catalyst",
+    "Adly's April BN-cooperation proposal (appointed ADUN) became the July withdrawal trigger — ironic reversal",
+    "Full N01-N28 seat list recovered; N27 Merlimau = Akmal (sitting ADUN); N24 Bemban = WAWASAN confirmed",
+    "Adly post-NS defensive (2 Aug); PH meeting 8 Aug to review Johor/NS results",
+    "BERSAMA founded 2016 (not 2026 as previously reported); Rafizi took over existing party"
+  ]
+}

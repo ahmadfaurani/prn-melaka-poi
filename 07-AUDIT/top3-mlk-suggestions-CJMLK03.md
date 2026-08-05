@@ -1,48 +1,50 @@
 # TOP 3 PIR SUGGESTIONS FOR NEXT CYCLE (AUTO-APPROVED) — CJ-MLK-03
 
 **Cronjob:** CJ-MLK-03 (Coalition Dynamics & Electoral Strategy)
-**Cycle:** 2026-08-05 00:38 MYT (inaugural cycle)
+**Cycle:** 2026-08-05 13:12 MYT (second cycle)
 **Author:** CJ-MLK-03 Collection Agent
 **Status:** AUTO-APPROVED by Director protocol — to be incorporated as additional search queries in the next CJ-MLK-03 cycle.
 
----
-
-## Suggestion 1: Melaka PRN Candidate Lists & Seat Allocations (the 1-3 month window)
-
-**Text:** With the Melaka PRN now confirmed as imminent (due ≤Nov 2026, possibly Sep; CM disclosed a 120-day window on 17 May 2026), the next cycle MUST capture the actual candidate lists and seat allocations as they are announced: BN's incumbent-retention decisions (CJ-MLK-01 sidebar signalled "BN retain most incumbents"), PN's seat split among BERSATU/PAS/WAWASAN (and whether Mas Ermieyati contests Masjid Tanah or a state seat), PH/DAP/AMANAH/PKR seat-sharing (and whether Adly Zahari defends Bukit Katil), and BERSAMA's (Rafizi) contested seats. Also recover the N25-N28 incumbents truncated this cycle and confirm the WAWASAN state seat. Monitor the 7-unequent-seats constitutional amendment (passed 23-5 on 14 Jul 2026) for who BN+PN appoints to the 7 new seats.
-
-**Rationale:** PIR-05 is RESOLVED on coalition *structure/dynamics* but OPEN on the specific *seat allocations* — which is the core deliverable as the election is 1-3 months away. The Johor/NS informal BN-PAS pact pattern is established; the Melaka-specific translation (which seats BN concedes to PAS, whether BERSATU gets any, how PH splits its 5) is the actionable intelligence gap. The 7-unequent-seats amendment is a coalition-engineering tool whose appointees will reveal the BN+PN power-sharing deal. Highest-value gap to close.
-
-**Search Queries:**
-1. `Melaka PRN calon 2026 BN PH PN senarai kawasan dicalonkan`
-2. `Pilihan raya negeri Melaka 2026 calon kerusi pengundian SPR`
-3. Direct extract: `spr.gov.my` (Election Commission) Melaka candidate list + re-extract `2026 Malacca state election` Wikipedia (recover N25-N28 + any new "Candidates"/"Seat allocation" section) + Bernama/Utusan/Sinar Harian candidate announcement pages
+**Previous-cycle suggestions status:** All 3 consumed this cycle. Suggestion 1 (seat list) ADDRESSED (full N01-N28 recovered). Suggestion 2 (Mas Ermieyati BERSATU status) RESOLVED (suspension verified via FMT). Suggestion 3 (BERSAMA strategy) ADDRESSED (Utusan/MalaysiaPost/official site extracted, ground ops 8 Aug).
 
 ---
 
-## Suggestion 2: VERIFY Mas Ermieyati's 2026 BERSATU Status & Her PRN Candidacy Plan
+## Suggestion 1: Capture the BERSAMA Candidate Announcement & Specific Melaka Seats Contested
 
-**Text:** The "BERSATU membership suspended since 2026" signal (EN-Wikipedia, surfaced in CJ-MLK-02) was NOT corroborated by the BERSATU Wikipedia page this cycle — it remains UNVERIFIED and is now urgent given (a) the PAS-BERSATU break (8-9 June 2026), (b) BERSATU's electoral freefall (wiped out in Sabah/Johor/NS), and (c) the imminent Melaka PRN. The next cycle must determine: (a) whether/when BERSATU suspended her membership and the stated reason; (b) whether she contests Masjid Tanah (federal) or a state seat (e.g., Tanjung Bidara area) in the PRN; (c) whether PN fields a PAS or BERSATU candidate in her Masjid Tanah-area state seats; (d) her factional position amid the PAS-run PN leadership. Recovery must use Malay news terms + direct site extraction (the web_search backend cannot retrieve her name — confirmed across 2 cycles).
+**Text:** BERSAMA announced it would reveal its Melaka PRN candidates and seats "by early August" (Utusan/MalaysiaPost, 8 Jun 2026) and launched ground operations on 8 August 2026 (Rafizi Facebook, Sentral Melaka Hotel). The next cycle MUST capture the actual announcement: which specific Melaka DUN seats BERSAMA contests (likely urban/reformist seats overlapping DAP/PKR), the number of seats, whether any are PH-held (N16 Ayer Keroh, N19 Kesidang, N20 Kota Laksamana, N22 Bandar Hilir — all DAP), and whether the 15 candidates are "ordinary citizens not big names" (Rafizi, 26 Jun). This determines the vote-splitter impact on PH's 5 seats and PKR's rebuild. Also capture BERSAMA's "Aku Janji Khidmat" 5 pledges (1 Jul 2026) and any Melaka-specific messaging.
 
-**Rationale:** PIR-09 (Mas Ermieyati / PN-Bersatu Electoral Strategy) is advanced on *party context* (BERSATU freefall, PAS-run PN, PN holds only 1 of 3 Melaka state seats) but OPEN on her *personal status* — which is the foundation of her electoral strategy. A suspended BERSATU leader contesting under a PAS-directed PN, defecting, or being dropped would be the defining PIR-09 event of the cycle. This is the highest-impact unverified signal carried across both CJ-MLK-02 and CJ-MLK-03 and must be closed before the PRN.
+**Rationale:** PIR-05 flags "seat negotiations among opposition parties expected to be critical" — BERSAMA's solo candidacy is the vote-splitter variable. With ground ops launching 8 Aug (3 days after this cycle), the candidate announcement is imminent or just happened. This is the highest-value time-sensitive gap.
 
 **Search Queries:**
-1. `Mas Ermieyati Samsudin gantung keahlian BERSATU 2026 sebab`
-2. `Mas Ermieyati calon PRN Melaka 2026 Masjid Tanah Tanjung Bidara PN PAS BERSATU`
-3. Direct extract: re-check `ms.wikipedia.org/wiki/Mas_Ermieyati_Samsudin` + `en.wikipedia.org/wiki/Mas_Ermieyati_Samsudin` (suspension note) + BERSATU/PN official statements (bersatuofficial.org / perikatan-nasional.org.my) + Malay Mail/Bernama BERSATU tag pages
+1. `Bersama calon PRN Melaka 2026 kerusi diumumkan Ogos`
+2. `Rafizi Ramli Bersama Melaka kerusi DUN calon Ogos 2026`
+3. Direct extract: bersama.org/en + Rafizi Facebook (rafiziramli.bersama) + re-extract `2026 Malacca state election` Wikipedia for BERSAMA candidate section + Utusan/Bernama BERSAMA tag pages
 
 ---
 
-## Suggestion 3: BERSAMA (Rafizi) Melaka Strategy & the Opposition Seat-Negotiation Dynamics
+## Suggestion 2: Mas Ermieyati's Next Political Move — WAWASAN Defection or Independent Candidacy
 
-**Text:** BERSAMA (Rafizi Ramli's new party, founded 2026) is explicitly targeting the Melaka PRN (Rafizi statement, 15 Jul 2026; Bersama withdrew from NS "to focus on the Malacca election") and has *rejected coalition talks* (per the Johor page) — creating a four-way contest and a vote-splitter risk. The next cycle must capture: (a) which Melaka seats BERSAMA targets (likely urban/reformist seats overlapping DAP/PKR); (b) whether BERSAMA, PH, and PKR (Adam Adli's acting Melaka chair) enter any seat negotiation or remain split; (c) Rafizi's specific Melaka messaging, candidate slate, and on-the-ground organisation; (d) the impact on PKR's near-zero Melaka state base. Also monitor whether the PH/DAP "government role to vote" (CEC, 4 Aug 2026) resolves and how it affects PH's Melaka state posture (Adly Zahari's coalition positioning).
+**Text:** The BERSATU suspension (verified this cycle, 10 Mar 2026) stripped all her party positions, but her "political struggle continues" statement is ambiguous. The next cycle MUST determine: (a) whether she defects to WAWASAN (Hamzah Zainudin's party — the faction she was punished for supporting; WAWASAN holds N24 Bemban); (b) whether she contests Masjid Tanah (federal, due with PRU) or a state seat in the PRN; (c) whether PN fields a PAS or WAWASAN candidate in her Masjid Tanah-area state seats (Tanjung Bidara = Ab Rauf); (d) whether her PAC chairmanship (Anwar-appointed) signals back-channel BN-PH accommodation. Her Masjid Tanah margin narrowed to 4,411 (2022) — electorally vulnerable even before BERSATU's collapse.
 
-**Rationale:** PIR-05 explicitly flags "seat negotiations among opposition parties expected to be critical" — BERSAMA is the new variable that determines whether the anti-BN vote unifies or splits. Adam Adli's PKR Melaka chairmanship (CJ-MLK-02, PIR-11) is directly threatened by a BERSAMA challenge to PKR's reformist-Malay space — this is a cross-PIR (05/11) nexus. BERSAMA is a 2026 entrant not in the original POI set but materially shaping the Melaka coalition frame; it must be tracked as a new actor.
+**Rationale:** PIR-09 is now resolved on her BERSATU STATUS but OPEN on her NEXT MOVE — which determines her entire electoral strategy. A WAWASAN defection would consolidate the Hamzah faction and reshape PN's Melaka seat allocation. This is the highest-impact personal-status development to track before the PRN.
 
 **Search Queries:**
-1. `BERSAMA Rafizi Ramli Melaka calon PRN 2026 kerusi strategi`
-2. `Rafizi Ramli Bersama PH DAP PKR perbincangan kerusi Melaka 2026`
-3. Direct extract: rafiziramli.com + BERSAMA official site/social + Malay Mail/NST/Bernama "Bersama"/"Rafizi" tag pages + re-extract `2026 Malacca state election` Wikipedia for any BERSAMA candidate/seat section
+1. `Mas Ermieyati Samsudin WAWASAN sertai pindah parti 2026`
+2. `Mas Ermieyati calon PRN Melaka 2026 Masjid Tanah Tanjung Bidara`
+3. Direct extract: WAWASAN official site/social + Mas Ermieyati Facebook/Instagram (she posted suspension notice there) + Malay Mail/Bernama "Mas Ermieyati" tag + re-check ms.wikipedia.org/wiki/Mas_Ermieyati_Samsudin for updates
+
+---
+
+## Suggestion 3: PH's Post-Withdrawal Melaka Strategy & the 8 August Meeting Outcome
+
+**Text:** PH's 8 August 2026 meeting (announced by Chow Kon Yeow) was to review Johor/NS results and "prepare new strategy for possibly early PRU." The next cycle MUST capture: (a) the meeting's outcome and any Melaka-specific decisions; (b) whether PH/AMANAH/DAP/PKR contest all 28 seats solo or seek any opposition pact (with BERSAMA? with defectors?); (c) Adly Zahari's specific PRN candidacy (does he defend N17 Bukit Katil?); (d) AMANAH's seat-negotiation stance given its near-zero state base (only Adly's seat); (e) whether DAP's 4 urban seats (N16/N19/N20/N22) face BERSAMA challengers. Also monitor whether the DAP "government role to vote" (CEC, flagged cycle 1) resolves and how it affects PH's Melaka state posture.
+
+**Rationale:** PIR-10 is resolved on Adly's positioning ARC but OPEN on PH's actual PRN campaign. The 8 Aug meeting is the decision point — its outcome determines whether PH unifies the opposition vote (pact with BERSAMA?) or fragments it (solo, split with BERSAMA). With the election 1-3 months away, this is time-critical.
+
+**Search Queries:**
+1. `PH mesyuarat 8 Ogos 2026 keputusan PRN Melaka strategi`
+2. `Adly Zahari calon Bukit Katil PRN Melaka 2026 Amanah DAP PKR kerusi`
+3. Direct extract: Amanah official site/social + DAP Melaka social + re-extract BERNAMA/FMT "PH Melaka"/"Adly Zahari" tag pages + re-extract `2026 Malacca state election` Wikipedia for PH candidate section
 
 ---
 
