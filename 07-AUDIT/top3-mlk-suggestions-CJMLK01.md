@@ -1,48 +1,48 @@
 # TOP 3 PIR SUGGESTIONS FOR NEXT CYCLE (AUTO-APPROVED) — CJ-MLK-01
 
 **Cronjob:** CJ-MLK-01 (Executive Leadership & Governance)
-**Cycle:** 2026-08-05 00:17 MYT
+**Cycle:** 2026-08-05 12:42 MYT (Cycle 2)
 **Author:** CJ-MLK-01 Collection Agent
 **Status:** AUTO-APPROVED by Director protocol — to be incorporated as additional search queries in the next CJ-MLK-01 cycle.
 
 ---
 
-## Suggestion 1: Melaka State Administration Reshuffle & EXCO Reallocation (Aug 2026)
+## Suggestion 1: Post-DAP-Exit Melaka Administration Reshuffle & the 7 Appointed ADUN
 
-**Text:** Investigate the fresh Melaka state administration reshuffle signalled by very recent (Aug 2-4, 2026) reports — "3 Exco BN dijangka kekal dalam pentadbiran baharu" (Kosmo, 4 Ogos 2026) and "Ab. Rauf pertahan kemenangan BN" (Kosmo, 2 Ogos 2026). Determine which EXCO portfolios were reallocated after Akmal's Jan resignation, whether Ab Rauf consolidated portfolios, and what this signals for his autonomy vs federal direction.
+**Text:** Track the concrete administration reshuffle following DAP's 14 July 2026 exit from the Melaka state government: (a) which of the up-to-7 appointed ADUN slots Ab Rauf actually fills (RTM says 0-7 flexible), (b) who replaces the DAP Exco/Timbalan Exco vacancies (Allex Seah, Low Chee Leong, Leng Chau Yen, Kerk Chee Yee), and (c) whether Akmal's Rural Development/Agri/Food Security portfolio is redistributed. Recover the Kosmo "3 Exco BN dijangka kekal dalam pentadbiran baharu" (4 Aug 2026) and "Giliran Melaka pula pertahan kemenangan BN – Ab Rauf" (2 Aug 2026) sidebars that remain unscraped across two cycles.
 
-**Rationale:** These are the freshest signals (1-3 days old at collection time) and directly address PIR-01 (governance agenda) and PIR-06 (candidate/portfolio selection autonomy). The Kosmo sidebar references could not be directly scraped (anti-bot), so the next cycle must recover full text via alternative routes (Google cache, archive.org, or Malay-language search terms). A reshuffle is a concrete governance-decision data point currently missing.
+**Rationale:** This is the operational follow-through of the cycle's headline event (DAP exit). The 7-ADUN-lantikan amendment is Ab Rauf's legislative instrument to restabilise the administration post-DAP — who he appoints reveals his governance priorities and patronage network. The Kosmo sidebars are the freshest reshuffle signals and remain the persistent unscraped gap across two cycles. Directly advances PIR-01 (governance) and PIR-06 (autonomy in appointments).
 
 **Search Queries:**
-1. `Ab Rauf Yusoh EXCO Melaka baharu 2026 timbalan exco pelantikan`
-2. `Melaka pentadbiran baharu Ogos 2026 exco kekal jawatan`
-3. `site:kosmo.com.my OR site:hmetro.com.my "Exco" Melaka 2026 baharu Ab Rauf`
+1. `Melaka ADUN lantikan pelantikan senarai nama 2026 Ogos September`
+2. `Ab Rauf Yusoh exco baharu ganti DAP Melaka 2026 timbalan exco`
+3. `site:kosmo.com.my OR site:hmetro.com.my "pentadbiran baharu" Melaka 2026 exco`
 
 ---
 
-## Suggestion 2: Akmal's KK Mart Boycott Campaign — Measurable Electoral & Commercial Impact
+## Suggestion 2: Teresa Kok Defamation Trial Outcome & Akmal's Legal-Exposure Trajectory
 
-**Text:** Collect evidence on the measurable impact of Dr Akmal's KK Mart boycott campaign (triggered by the 'Allah' socks incident) on (a) KK Mart commercial performance, (b) Malay-Muslim consumer sentiment, and (c) BN's multiracial electoral positioning. The NST article named the socks issue as a core Akmal "defense" trigger, but no impact metrics have been collected.
+**Text:** Obtain the outcome of the Teresa Kok vs Akmal Saleh defamation trial (fixed 12-13 February 2026, Melaka High Court) — specifically whether the court granted the injunction Kok sought to restrain Akmal from further defamatory statements. This is a measurable constraint on Akmal's rhetoric trajectory (PIR-02): an injunction would legally throttle his anti-DAP/halal-certification rhetoric, while an acquittal/favourable ruling would embolden it. Also track any appeal and the RM25 million damages assessment.
 
-**Rationale:** PIR-02 explicitly requires *measurable impact* on BN/UMNO's national electoral positioning and multiracial appeal. Current collection captured the *rhetoric* and *doctrine* (3R red lines, DAP-chauvinist-DNA, "defend not attack") but NOT the *impact*. The KK Mart boycott is the flagship campaign and the most tractable to measure (commercial data + sentiment). This is the highest-value gap to close for the Critical PIR-02.
+**Rationale:** PIR-02 requires the trajectory of Akmal's rhetoric and its impact. The trial was fixed for Feb 2026 — by the next cycle the outcome should be a matter of public court record. This converts a "pending legal event" into a "measurable legal constraint/liberty" data point — the most concrete measurable impact on the rhetoric itself. Multiple L1 sources (BERNAMA via Malay Mail/NST/FMT/Sun) confirmed the trial dates, so the outcome is traceable. Highest-value PIR-02 follow-up.
 
 **Search Queries:**
-1. `KK Mart boycott Akmal Saleh impact sales Muslim 2026`
-2. `Akmal UMNO Youth KK Mart kaus kaki Allah boikot kesan`
-3. `Akmal Saleh boycott campaign multiracial BN electoral DAP Chinese reaction 2026`
+1. `Teresa Kok Akmal Saleh defamation trial verdict February 2026 Melaka High Court`
+2. `Akmal Saleh Teresa Kok saman fitnah keputusan mahkamah injunksi 2026`
+3. `site:malaymail.com OR site:nst.com.my "Teresa Kok" "Akmal" trial 2026`
 
 ---
 
-## Suggestion 3: Ab Rauf Yusoh — Direct Relationship with Zahid Hamidi & Tok Mat (Federal-State Autonomy)
+## Suggestion 3: PRN Melaka Coalition Formation — BN-PN (PAS) Negotiation & Candidate Overlap
 
-**Text:** Obtain direct evidence on Ab Rauf Yusoh's relationship with federal UMNO leadership — President Ahmad Zahid Hamidi and DPM/"Tok Mat" Mohamad Hasan — and the degree of autonomy he exercises in state-level candidate and political decisions. Current cycle found only indirect proxies (Akmal's resignation routed through Ab Rauf; sidebar "Melaka BN retain incumbents"). No direct Ab Rauf–Zahid or Ab Rauf–Tok Mat interaction has been documented.
+**Text:** Document the coalition negotiations for PRN Melaka (expected Sept-Oct 2026) following Ab Rauf's "BN Plus" signal (2 Aug 2026) and the Negeri Sembilan BN-PN precedent. Specifically: (a) whether BN and PN/PAS will contest jointly or in overlapping seats (Ab Rauf said PAS may contest 16/28 — overlap risk), (b) the candidate-list finalisation (Ab Rauf controls the BN list; does PN get any seats?), (c) whether the DAP exit + Akmal's Muafakat Nasional advocacy pushes Ab Rauf toward a formal BN-PN state coalition. Track Zahid's "PRN Melaka: Status kerjasama BN-PH akan diumum" promise.
 
-**Rationale:** PIR-06 (HIGH) is the most under-resolved PIR after this cycle (status: Open, confidence: MEDIUM). Ab Rauf's autonomy in candidate selection is the core requirement and is currently inferred, not evidenced. The "Melaka BN likely to retain most incumbents" (Star, ~25 Jul 2026) signal suggests Ab Rauf controls the incumbent list — but whether that reflects federal deference or Ab Rauf's independent power is unknown. Closing this gap is essential before the next state polls.
+**Rationale:** The PRN Melaka coalition structure is the decisive variable for Ab Rauf's governance continuity and directly tests the analytical assumption that Ab Rauf may adopt Akmal's rejected Muafakat Nasional policy at the state level. This bridges PIR-01 (governance continuity), PIR-06 (coalition autonomy), and PIR-08 (Akmal's policy influence). The Negeri Sembilan BN-PN government (BN 18 + PN 7) is the live precedent. The "kerjasama BN-PH akan diumum" teaser from Sinar Harian suggests a formal announcement is pending — high-value to capture before it lands.
 
 **Search Queries:**
-1. `Ab Rauf Yusoh Zahid Hamidi Mesyuarat Tertinggi UMNO calon Melaka`
-2. `Ab Rauf Yusoh Tok Mat Hasan Melaka BN perhubungan negeri 2026`
-3. `"Ab Rauf" Melaka calon PRN 2026 kekal penyandang UMNO perhubungan`
+1. `PRN Melaka 2026 kerjasama BN PN PAS calon penepatan Ab Rauf Zahid`
+2. `Melaka BN PH status kerjasama diumum Ahmad Zahid 2026 Ogos`
+3. `Pilihan Raya Negeri Melaka 2026 BN PAS Muafakat Nasional calon kerusi 28`
 
 ---
 
