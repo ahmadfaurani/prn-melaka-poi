@@ -1,0 +1,15 @@
+{"file":"PIR02-07-umnoonline-akmal-bidas-adly-melaka-johor-20260622","timestamp":"2026-08-05 14:00 +08","entities":{
+"pois":[
+{"name":"Muhamad Akmal Saleh","mentions":1}
+,
+{"name":"Adly Zahari","mentions":4}
+],
+"dun_seats":[
+{"constituency":"Bukit Katil","mentions":1}
+,
+{"constituency":"Serkam","mentions":2}
+,
+{"constituency":"Merlimau","mentions":4}
+,
+{"constituency":"Sungai Rambai","mentions":5}
+]}}

@@ -1,0 +1,13 @@
+{"file":"PIR01-06-scoop-dap-keluar-kerajaan-melaka-20260714","timestamp":"2026-08-05 14:00 +08","entities":{
+"pois":[
+{"name":"Ab Rauf Yusoh","mentions":2}
+,
+{"name":"Kerk Chee Yee","mentions":1}
+],
+"dun_seats":[
+{"constituency":"Ayer Keroh","mentions":1}
+,
+{"constituency":"Kesidang","mentions":1}
+,
+{"constituency":"Kota Laksamana","mentions":1}
+]}}

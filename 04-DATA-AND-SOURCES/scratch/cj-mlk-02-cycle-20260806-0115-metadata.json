@@ -1,0 +1,32 @@
+{
+  "cronjob": "CJ-MLK-02",
+  "cycle": 3,
+  "timestamp": "2026-08-06 01:15 MYT",
+  "collector": "CJ-MLK-02 Collection Agent (zai-org/GLM-5.2)",
+  "pirs_addressed": ["PIR-POI-MLK-03", "PIR-POI-MLK-04", "PIR-POI-MLK-11"],
+  "auto_approved_suggestions_consumed": 3,
+  "suggestion_1_status": "PARTIAL — PAC publications page (L1) re-confirmed 6 reports + PDF URLs; but all 5 non-LCS PDF extractions BLOCKED (web_extract size limit + curl HTTP 000 to parlimen.gov.my)",
+  "suggestion_2_status": "RESOLVED — Adly Zahari personally launched IA-ATM at PPDK Umi Kem Terendak Melaka (8 Apr 2026, mod.gov.my L1 + Utusan L4). Melaka-base agency gap CLOSED. Plus: DSA2026 attendance + RM3.54B contracts + Azerbaijan bilateral + National Defence Policy talk. Adly LCS/PAC response NOT surfaced (search token collision on 'PAC'/'LCS').",
+  "suggestion_3_status": "PROGRESS — Adam Adli concrete 2026 PTPTN policy output captured (MalaysiaPost 17 Jun 2026: targeted repayment, income-contingent, RM6,000 threshold). Cabinet reshuffle context confirms Sakmud promotion + Adam Adli replacement. Adam Adli MPP PKR confirmed. Hansard contributions NOT obtained (search blocked on 'Adam' token). Explicit ministerial-promotion signal NOT found.",
+  "raw_scrapes": [
+    "PIR03-mod-gov-my-adly-kem-terendak-ia-atm-melaka-20260408-KEYSTONE.md",
+    "PIR03-utusan-adly-ikhtiar-autisme-melaka-20260407.md",
+    "PIR03-bernama-dsa-natsec-2026-adly-20260419.md",
+    "PIR03-bernamabiz-mindef-rm3.54b-contracts-dsa2026-20260422.md",
+    "PIR03-adly-dsa2026-azerbaijan-bilateral-facebook-snippet.md",
+    "PIR03-adly-national-defence-policy-talk-maktab-ketahanan-20260317.md",
+    "PIR04-pac-publications-2026-reports-confirmed-pdf-urls.md",
+    "PIR11-malaysiapost-adam-adli-ptptn-reform-20260617.md",
+    "PIR11-puad-netizen-adam-adli-ptptn-challenge-20251216.md",
+    "PIR11-hmetro-cabinet-reshuffle-dec2025-sakmud-promoted.md"
+  ],
+  "new_cvs_claims": "CVS-MLK-168 to CVS-MLK-179 (12 claims)",
+  "tier_distribution": {"T1": 5, "T2": 7},
+  "blockers": [
+    "PAC non-LCS report PDFs (DR.27/23/20/12/9) — web_extract size limit + parlimen.gov.my unreachable via curl (HTTP 000)",
+    "Adam Adli 2026 Hansard — search token collision ('Adam' -> Biblical/YouTube); no direct parlimen.gov.my Hansard search reachable",
+    "Adly response to PAC LCS directive — search token collision ('PAC' -> Pacman/Political Action Committee; 'LCS' -> LoL Esports)",
+    "Facebook full extraction blocked (Adly DSA2026 posts, MINDEF National Defence Policy talk) — relied on snippets"
+  ],
+  "keystone_finding": "PIR-03 Melaka-base agency gap FULLY RESOLVED: Adly personally officiated IA-ATM at Kem Terendak Melaka (8 Apr 2026, L1+L4). Combined with DSA2026 RM3.54B contracts + Azerbaijan bilateral + National Defence Policy talk, Adly's defence agency is now full-spectrum (policy articulation + industry implementation + procurement diplomacy + Melaka-base engagement)."
+}

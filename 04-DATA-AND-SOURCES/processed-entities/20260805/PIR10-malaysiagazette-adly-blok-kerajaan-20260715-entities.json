@@ -1,0 +1,15 @@
+{"file":"PIR10-malaysiagazette-adly-blok-kerajaan-20260715","timestamp":"2026-08-05 14:00 +08","entities":{
+"pois":[
+{"name":"Adly Zahari","mentions":8}
+,
+{"name":"Kerk Chee Yee","mentions":1}
+],
+"dun_seats":[
+{"constituency":"Ayer Keroh","mentions":1}
+,
+{"constituency":"Bukit Katil","mentions":2}
+,
+{"constituency":"Kesidang","mentions":1}
+,
+{"constituency":"Kota Laksamana","mentions":1}
+]}}

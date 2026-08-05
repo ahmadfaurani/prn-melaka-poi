@@ -1,0 +1,15 @@
+{"file":"PIR14-ms-wikipedia-shamsul-iskandar-pkr-melaka-chairman","timestamp":"2026-08-05 14:00 +08","entities":{
+"pois":[
+{"name":"Adam Adli","mentions":7}
+,
+{"name":"Shamsul Iskandar","mentions":4}
+,
+{"name":"Rais Yasin","mentions":1}
+],
+"dun_seats":[
+{"constituency":"Paya Rumput","mentions":1}
+,
+{"constituency":"Bukit Katil","mentions":2}
+,
+{"constituency":"Rim","mentions":2}
+]}}
