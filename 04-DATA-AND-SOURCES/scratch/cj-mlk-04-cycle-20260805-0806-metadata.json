@@ -1,0 +1,33 @@
+{
+  "cronjob": "CJ-MLK-04",
+  "cycle": 2,
+  "timestamp": "2026-08-05 08:06 MYT",
+  "utc_timestamp": "2026-08-05 00:06 UTC",
+  "collector": "zai-org/GLM-5.2",
+  "pirs_addressed": ["PIR-POI-MLK-12", "PIR-POI-MLK-13", "PIR-POI-MLK-14", "PIR-POI-MLK-15"],
+  "auto_approved_suggestions_consumed": 3,
+  "search_queries_executed": 8,
+  "web_extractions": 8,
+  "productive_sources": 9,
+  "raw_scrapes_saved": 9,
+  "key_findings": {
+    "PIR-12": "RESOLVED — Zulkifli Ismail CONFIRMED as PAS Melaka Commissioner (Pesuruhjaya) 2025-2027 via Harakah Daily + Malaysia Tribune + PAS Facebook",
+    "PIR-13": "ADVANCED — DUN composition 15 Jul 2026 confirmed (BN 20/PH 5/PN 2/IND 1), Helmy unaffected by PH withdrawal, Yadzil = Opposition Leader",
+    "PIR-14": "ADVANCED — NEW: Shamsul appointed PKR Melaka Chairman 31 Jul 2025 (deputy Adam Adli); corruption case UNCHANGED (no trial progression)",
+    "PIR-15": "ADVANCED — Bakri = Deputy PAS Melaka Commissioner + PAS Central Committee member; constituency service centre active 6 Jul 2026"
+  },
+  "new_raw_scrapes": [
+    "PIR12-harakah-pas-melaka-jawatankuasa-harian-2025-2027-KEYSTONE.md",
+    "PIR12-15-malaysiatribune-zulkifli-kekal-pesuruhjaya-pas-melaka.md",
+    "PIR15-wikipedia-bakri-jamaluddin-person-profile.md",
+    "PIR12-wikipedia-zulkifli-ismail-person-profile.md",
+    "PIR13-ms-wikipedia-dewan-undangan-negeri-melaka-20260715.md",
+    "PIR14-ms-wikipedia-shamsul-iskandar-pkr-melaka-chairman.md",
+    "PIR14-15-wikipedia-dewan-rakyat-5th-session-2026-schedule.md",
+    "PIR15-tangga-batu-pusat-khidmat-rakyat-constituency-activity.md",
+    "PIR12-harakahdaily-homepage-bnpn-muafakat-context-20260804.md"
+  ],
+  "cvs_claims_added": 15,
+  "cvs_claim_range": "CVS-MLK-074 to CVS-MLK-088",
+  "search_backend_status": "FAILED for Malaysian political content (8/8 standard queries returned irrelevant results); 2 suggestion-targeted searches returned relevant results (Harakah Daily, Malaysia Tribune, PAS Facebook)"
+}
