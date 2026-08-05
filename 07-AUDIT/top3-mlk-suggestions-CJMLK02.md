@@ -1,49 +1,60 @@
 # TOP 3 PIR SUGGESTIONS FOR NEXT CYCLE (AUTO-APPROVED) — CJ-MLK-02
 
 **Cronjob:** CJ-MLK-02 (Defence, Parliament & Federal Portfolios)
-**Cycle:** 2026-08-05 00:27 MYT (inaugural cycle)
+**Cycle:** 2026-08-05 12:59 MYT (second cycle)
 **Author:** CJ-MLK-02 Collection Agent
-**Status:** AUTO-APPROVED by Director protocol — to be incorporated as additional search queries in the next CJ-MLK-02 cycle.
+**Status:** AUTO-APPROVED by Director protocol — to be incorporated as additional search queries/extractions in the next CJ-MLK-02 cycle.
+
+**Cycle 2 outcome:** All 3 cycle-1 suggestions were consumed and RESOLVED this cycle:
+1. ✅ Mas Ermieyati BERSATU suspension — VERIFIED (bharian + hmetro, March 2026); PAC chair status RESOLVED (L1 PAC report confirms her chair Feb-Jul 2026 despite suspension).
+2. ✅ Adly 2026 MINDEF initiatives — RESOLVED (2 airtimes.my articles: Oct 2025 capability gaps, Feb 2026 PERHEBAT Plan; L1 MINDEF office directory).
+3. ✅ Adam Adli 2026 parliamentary/performance + policy — RESOLVED (L1 parliament profile updated 03/08/2026; FMT 9 Feb 2026 AUKU policy; Sinar Harian UMANY demand).
+
+**Keystone cross-POI finding this cycle:** PAC report DR.22/2026 (Mas Ermieyati chair) scrutinises Adly Zahari's MINDEF RM11.22B LCS procurement — 6 recommendations, no additional funds, cost ceiling cap.
 
 ---
 
-## Suggestion 1: VERIFY Mas Ermieyati's BERSATU Membership Suspension (2026) & PAC Chair Status
+## Suggestion 1: Extract Full Text of the 5 Non-LCS PAC 2026 Reports + Mas Ermieyati's Statements on Each
 
-**Text:** The English Wikipedia extraction surfaced a single-line note that Mas Ermieyati's BERSATU membership has been "suspended since 2026." This is the single most time-sensitive signal of the cycle and was NOT corroborated by the Malay Wikipedia or any news source (search backend returned no Malaysian results). The next cycle MUST determine: (a) whether/when the BERSATU suspension occurred and the stated reason; (b) whether it affects her standing as PAC Chairperson (the PAC chair is appointed by the Speaker, not the party, so suspension may not remove her — but it complicates the "opposition MP chairs PAC" convention); (c) her current factional position within PN given the 2026 opposition-leadership churn (Hamzah → Samsuri → Hamzah).
+**Text:** Cycle 2 obtained the PAC 2026 *agenda* (6 reports) and the *full detail* of the LCS report (DR.22/2026), but only headline data for the other 5: cooking oil subsidies (KPDN DR.27/2026), govt vehicle concessions (MOF DR.23/2026), public airports (MOF/Transport/MAHB DR.20/2026), health insurance premiums (MOF/Health/BNM DR.12/2026), and FELCRA palm oil (KKDW DR.9/2026). The next cycle should extract the full PDF text of these 5 reports to capture: PAC findings, named ministries/agencies under scrutiny, Mas Ermieyati's specific statements/recommendations, and any additional cross-POI links to MINDEF or Melaka. The cooking oil report (DR.27/2026, most recent, 16 Jul 2026) is highest priority — it connects to the documented border working visit (Rantau Panjang, Kelantan) and the halal-cert finding.
 
-**Rationale:** PIR-POI-MLK-04 (CRITICAL) requires the PAC's agenda and the entities under scrutiny — but the chair's own political status is the foundation. A suspended-chair PAC would be a major institutional anomaly. This signal is freshest (2026) and highest-impact, yet currently unverified. Recovery must use Malay-language news terms and direct site extraction (the web_search backend failed for her name; "Mas" and "Ermieyati" both collided with irrelevant results).
+**Rationale:** PIR-04's core question (scrutiny targets) is answered at headline level; the *substantive content* of the scrutiny is the next layer. Each report PDF is a direct L1 extraction (no search needed — the URL pattern is known from the PAC publications page: `parlimen.gov.my/pac/review/docs-[NNN]-[NNN].pdf`). This deepens PIR-04 from "agenda known" to "findings known" and may surface additional cross-POI links (e.g., if any report touches Melaka entities or MINDEF-adjacent procurement).
 
-**Search Queries:**
-1. `Mas Ermieyati Samsudin gantung keahlian BERSATU 2026 sebab` (then extract any Malay-news URL surfaced)
-2. `Pengerusi PAC Mas Ermieyati status 2026 BERSATU PN`
-3. Direct extract: `https://ms.wikipedia.org/wiki/Mas_Ermieyati_Samsudin` (re-check for suspension mention) + attempt `https://www.bersatuofficial.org` / PN statements + Malay Mail/Bernama BERSATU tag pages
-
----
-
-## Suggestion 2: Adly Zahari's 2026 MINDEF Initiatives & the Melaka 3rd-Division/10-Para Nexus
-
-**Text:** This cycle established the STRUCTURAL Melaka defence nexus (3rd Army Division + 10th Parachute Brigade HQ in Malacca; MINDEF 2026 budget MYR 21.746B; DIPKN policy; Procurement & Defence Industry divisions under Adly's deputy purview) but captured NO 2026-specific initiatives, statements, visits, or procurement decisions Adly is personally driving. The next cycle should target: (a) Adly's 2026 MINDEF statements/programme launches (Defence White Paper implementation, DIPKN industry development, veteran/national-service files he handles as deputy); (b) any Adly visit to or statement about the Malacca-based 3rd Div/10 Para Bde (his constituency hosts them — a direct minister-to-local-base link); (c) Melaka-specific defence-industry investment or TLDM Straits-of-Malacca patrol activity.
-
-**Rationale:** PIR-POI-MLK-03 (CRITICAL) requires *what defence initiatives Adly is driving* and the *Melaka nexus*. The structural nexus is now proven; the *agentic* nexus (Adly's personal engagement with it) is the open gap. The search backend failed on "Adly Zahari" — recovery must use distinctive Malay institutional tokens (MINDEF/Kementah, 3 Divisi, 10 Para, Wisma Pertahanan) and direct extraction of mod.gov.my news + navy.mil.my + army.mil.my.
-
-**Search Queries:**
-1. `Adly Zahari lawatan 3 Divisi 10 Para Kem Malacca 2026` (+ extract mod.gov.my / army.mil.my news pages)
-2. `Kementah DIPKN industri pertahanan 2026 Timbalan Menteri Pertahanan`
-3. Direct extract: `https://www.mod.gov.my` (MINDEF official news) + `https://army.mil.my` (Army official site) + Bernama defence/MINDEF category
+**Search Queries / Direct Extractions:**
+1. Direct extract: `https://parlimen.gov.my/pac/review/docs-323-400.pdf` (DR.27/2026 cooking oil subsidies — KPDN)
+2. Direct extract: `https://parlimen.gov.my/pac/review/docs-321-398.pdf` (DR.23/2026 govt vehicle concessions — MOF)
+3. Direct extract: `https://parlimen.gov.my/pac/review/docs-317-389.pdf` (DR.20/2026 airports — MOF/Transport/MAHB)
+4. Direct extract: `https://parlimen.gov.my/pac/review/docs-315-388.pdf` (DR.12/2026 health insurance — MOF/Health/BNM)
+5. Direct extract: `https://parlimen.gov.my/pac/review/docs-314-385.pdf` (DR.9/2026 FELCRA palm oil — KKDW)
 
 ---
 
-## Suggestion 3: Adam Adli's 2026 Parliamentary Performance & Post-Dec-2025 Higher-Education Policy Positions
+## Suggestion 2: Adly Zahari's Personal Engagement with the Melaka-Based 3rd Division / 10 Para Bde + His Response to the PAC LCS Directive
 
-**Text:** Adam Adli's ministerial *trajectory* is now documented (Youth & Sports → Higher Education Dec 2025; Acting PKR Melaka chair), but PIR-POI-MLK-11 (HIGH) requires his *parliamentary engagement trajectory*, *key policy positions*, and *prospects for (full) ministerial appointment*. The next cycle should target: (a) Adam Adli's 2026 Dewan Rakyat contributions (questions, speeches, committee work) — obtainable via the Parliament Hansard (parlimen.gov.my) and MP profile pages; (b) his policy positions as Deputy Higher Education minister (under Minister Zambry) — university funding, student affairs, RSS/PTPTN, autonomy issues; (c) any signal of promotion to full minister, especially given the post-NS-election PH/DAP strain (DAP putting government role to vote) which may reshuffle PKR's ministerial slots.
+**Text:** The structural Melaka defence nexus (3rd Army Division + 10th Parachute Brigade HQ in Malacca) is proven (cycle 1), and Adly's 2026 MINDEF initiatives are captured (cycle 2), but the *Melaka-base agency* gap remains: no evidence of Adly personally visiting, addressing, or making basing/procurement decisions about the Malacca-based formations. The next cycle should target: (a) Adly's visits/statements to/from the 3rd Div or 10 Para Bde (his Alor Gajah/Bukit Katil constituency hosts them — a direct minister-to-local-base link); (b) any Melaka-specific defence-industry investment, TLDM Straits-of-Malacca patrol activity, or veteran/PERHEBAT programme delivery in Melaka; (c) **Adly's public response to the PAC's LCS fiscal directive** — the PAC (DR.22/2026) told his MINDEF "no additional funds, cost under RM11.22B." As the deputy minister for the scrutinised ministry, does Adly publicly respond, defend, or commit to the PAC directive? This is a fresh angle created by this cycle's keystone finding.
 
-**Rationale:** PIR-11 is HIGH priority and only PARTIALLY resolved (trajectory documented; current performance/positions absent). The Dec 2025 reshuffle + the Aug 2026 PH/DAP post-election strain is a window where ministerial-prospect signals are most likely to surface. The web_search backend failed entirely on "Adam Adli" (→Biblical Adam); recovery must use the MP's parliamentary record directly + distinctive Malay tokens (Timbalan Menteri Pendidikan Tinggi, Hang Tuah Jaya).
+**Rationale:** PIR-03 (CRITICAL) asks for "the Melaka nexus" — the structural nexus is proven but the *agentic Melaka-base* link (Adly personally engaging his home-state's military formations) is the last open dimension. The new PAC↔MINDEF LCS scrutiny relationship also creates a fresh, time-sensitive angle: Adly's response to the PAC's fiscal directive is the kind of agentic signal PIR-03 needs and is most likely to surface in Malay-language defence news and MOD/army official sites.
 
-**Search Queries:**
-1. `Adam Adli Hang Tuah Jaya soalan Dewan Rakyat 2026` (+ extract parlimen.gov.my Hansard/MP pages)
-2. `Timbalan Menteri Pendidikan Tinggi Adam Adli dasar universiti 2026`
-3. Direct extract: `https://parlimen.gov.my` MP profile for Hang Tuah Jaya (P137) + `https://www.mohe.gov.my` (Higher Education ministry news) + Malay Mail/NST/Bernama Higher Education category
+**Search Queries / Direct Extractions:**
+1. `"Adly Zahari" "3 Divisi" OR "10 Para" OR "Kem Terendak" OR "Sungai Udang" 2026` (Malay institutional tokens for the Malacca bases)
+2. `Adly Zahari LCS PAC syor respons mindef 2026` (his response to the PAC directive)
+3. Direct extract: `https://army.mil.my` (Army official news) + `https://www.mod.gov.my` (MINDEF news) for Adly statements/visits to Malacca formations
+4. `Adly Zahari PERHEBAT Melaka veteran 2026` (Melaka-specific veteran programme delivery)
 
 ---
 
-*End of auto-approved suggestions — to be consumed by next CJ-MLK-02 cycle.*
+## Suggestion 3: Adam Adli's 2026 Dewan Rakyat Hansard Contributions + Higher-Ed Policy Outputs + Ministerial-Promotion Signal
+
+**Text:** Adam Adli's current status (L1 profile, updated 03/08/2026) and his AUKU policy posture (FMT 9 Feb 2026) are captured, but PIR-11 still lacks his *specific 2026 parliamentary performance* (Dewan Rakyat questions answered, speeches, committee work) and *concrete higher-ed policy outputs* beyond the AUKU memorandum reception. The next cycle should: (a) extract the Parliament Hansard for Adam Adli's 2026 contributions via `parlimen.gov.my` Hansard/oral-questions search (he is a deputy minister who answers oral questions in the Dewan Rakyat — his Oct 2025-equivalent and Feb 2026 replies are the model); (b) capture his concrete policy outputs as Deputy Higher Ed — university funding decisions, PTPTN statements, student-affairs rulings, AUKU-amendment positions, and any formal response to the AUKU memorandum he received on 9 Feb 2026; (c) monitor for any ministerial-promotion signal in the post-NS-election PH/DAP strain window (DAP "putting government role to vote") which may reshuffle PKR's ministerial slots and open or close space for Adam Adli's promotion to full minister.
+
+**Rationale:** PIR-11 (HIGH) is substantially resolved on status + policy posture, but the *parliamentary-performance* and *promotion-signal* dimensions remain open. The Hansard is the authoritative L1 source for parliamentary performance and is directly extractable (Adly's airtimes.my articles show deputy-minister Dewan Rakyat replies are publicly reported — the same pattern should exist for Adam Adli). The PH/DAP strain window (post-NS-election) is the most likely source of a promotion signal and is itself a moving target worth monitoring each cycle.
+
+**Search Queries / Direct Extractions:**
+1. `parlimen.gov.my hansard 2026 "Adam Adli" soalan jawab` (direct Hansard/oral-questions search)
+2. `"Adam Adli" PTPTN OR AUKU OR pembiayaan universiti OR autonomi 2026 dasar` (concrete higher-ed policy outputs)
+3. `rombakan kabinet 2026 PKR timbalan menteri naik menteri penuh` (promotion-signal monitor)
+4. Direct extract: `https://www.mohe.gov.my` (Higher Education ministry news) for Adam Adli statements/programme launches
+
+---
+
+*End of auto-approved suggestions for CJ-MLK-02 cycle 3 — to be consumed by next CJ-MLK-02 cycle.*

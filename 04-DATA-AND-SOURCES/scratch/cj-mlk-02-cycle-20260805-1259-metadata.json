@@ -1,0 +1,86 @@
+{
+  "cronjob": "CJ-MLK-02 (Defence, Parliament & Federal Portfolios)",
+  "cycle": "2026-08-05 12:59 MYT",
+  "cycle_number": 2,
+  "collector": "CJ-MLK-02 Collection Agent (zai-org/GLM-5.2)",
+  "classification": "TLP:AMBER",
+  "pirs_addressed": {
+    "PIR-POI-MLK-03": { "title": "Adly Zahari — Defence Portfolio & Melaka Nexus", "priority": "CRITICAL", "status_after_cycle": "SUBSTANTIALLY RESOLVED (agency gap closed)" },
+    "PIR-POI-MLK-04": { "title": "Mas Ermieyati — PAC Scrutiny Targets", "priority": "CRITICAL", "status_after_cycle": "SUBSTANTIALLY RESOLVED (agenda + scrutiny targets + suspension all confirmed)" },
+    "PIR-POI-MLK-11": { "title": "Adam Adli — Parliamentary Trajectory & Ministerial Prospects", "priority": "HIGH", "status_after_cycle": "SUBSTANTIALLY RESOLVED (current status + 2026 policy positions captured)" }
+  },
+  "pois": {
+    "Adly Zahari": { "role": "Timbalan Menteri Pertahanan (Deputy Defence Minister), MP Alor Gajah, PH Malacca+Kelantan chairman", "source_confidence": "T1 (L1 MINDEF directory + L1 PAC report + L4 news)" },
+    "Mas Ermieyati Samsudin": { "role": "PAC Chairperson (CONFIRMED active Feb-Jul 2026 despite BERSATU suspension Mar 2026), MP Masjid Tanah, BERSATU Srikandi Chief (suspended 2 terms/6 yrs)", "source_confidence": "T1 (L1 PAC report PDF names her chair; BERSATU suspension verified by 2 L4 outlets)" },
+    "Adam Adli": { "role": "Timbalan Menteri Pendidikan Tinggi (since 17 Dec 2025, replacing Mustapha Sakmud), MP Hang Tuah Jaya (P137), Acting PKR Melaka chair", "source_confidence": "T1 (L1 parliament profile updated 03/08/2026) + T2 (2026 policy positions)" }
+  },
+  "auto_approved_suggestions_consumed": "3 of 3 from 07-AUDIT/top3-mlk-suggestions-CJMLK02.md (cycle 1 output): (1) Mas Ermieyati BERSATU suspension verification — RESOLVED/VERIFIED; (2) Adly 2026 MINDEF initiatives — RESOLVED (2 airtimes.my articles + MINDEF directory); (3) Adam Adli 2026 parliamentary/performance + policy positions — RESOLVED (L1 profile + FMT/Sinar AUKU policy articles)",
+  "search_queries_executed": [
+    "Mas Ermieyati Samsudin gantung keahlian BERSATU 2026",
+    "Adly Zahari Timbalan Menteri Pertahanan 2026 MINDEF",
+    "Adam Adli Hang Tuah Jaya Parlimen 2026",
+    "PAC Parlimen Malaysia 2026 laporan siasatan jawatankuasa kira wang",
+    "\"Mas Ermieyati\" PAC pengerusi 2026",
+    "\"Adly Zahari\" 2026 pertahanan OR mindef OR lawatan OR dasar",
+    "\"Adam Adli\" 2026 pendidikan tinggi OR universiti OR dasar",
+    "Jawatankuasa Kira Wang Negara 2026 laporan siasatan PAC",
+    "Mas Ermieyati BERSATU gantung keahlian sebab 2026 Mac kod tatakelakuan",
+    "PAC kapal peronda TLDM generasi kedua 2026 laporan MINDEF",
+    "LCS Littoral Combat Ship PAC 2026 MINDEF syor RM11.22 billion TLDM",
+    "\"Adam Adli\" Timbalan Menteri Pendidikan Tinggi 2026 dasar universiti OR AUKU OR pelajar",
+    "\"Adly Zahari\" Melaka 2026 OR pangkalan OR tentera OR Alor Gajah",
+    "\"Adam Adli\" Dewan Rakyat 2026 soalan OR jawapan OR pendidikan tinggi",
+    "PAC 2026 minyak masak subsidi FELCRA Mas Ermieyati siasatan"
+  ],
+  "search_backend_outcome": "MUCH IMPROVED vs cycle 1. Malay-language queries (gantung keahlian, kapal peronda, jawatankuasa kira wang) returned relevant Malaysian results. Some token collisions persist ('Mas'→MAS/Microsoft Activation Scripts; 'Adam'→Biblical Adam; 'PAC'→Political Action Committee USA / pac.co.th / LoL Esports LCS; 'LCS'→League Championship Series). But distinctive Malay institutional tokens + quoted POI names surfaced: bharian/hmetro (BERSATU suspension), airtimes.my (Adly MINDEF), parlimen.gov.my (Adam Adli profile, PAC reports), nst.com.my (PAC LCS), sinarharian/fmt (Adam Adli AUKU). Direct web_extract still essential for official PDFs/pages and antibot-blocked article full text.",
+  "urls_extracted_via_web_extract": [
+    "https://www.bharian.com.my/berita/nasional/2026/03/1519440/mas-ermieyati-digantung-keahlian-bersatu-2-penggal (antibot FAIL)",
+    "https://www.hmetro.com.my/mutakhir/2026/03/1332056/mas-ermieyati-pula-digantung-keahlian-bersatu-selama-dua-penggal (antibot partial)",
+    "https://www.parlimen.gov.my/profile-ahli.html?uweb=dr&id=4176 (Adam Adli MP profile - SUCCESS)",
+    "https://direktori.mod.gov.my/mindef/category/pejabat-timbalan-menteri-pertahanan (Adly office - SUCCESS)",
+    "https://parlimen.gov.my/pac/publication-details.html?id=66 (PAC 2026 reports - SUCCESS)",
+    "https://www.airtimes.my/2025/10/06/mindef-akui-masih-wujud-jurang-keupayaan-pertahanan-moden-adly/ (SUCCESS)",
+    "https://www.airtimes.my/2026/02/06/mindef-sasar-tenaga-kerja-berkualiti-melalui-pelan-transformasi-perhebat/ (SUCCESS)",
+    "https://www.parlimen.gov.my/pac/ (PAC main page - SUCCESS)",
+    "https://parlimen.gov.my/pac/publication-details.html?arkib=yes&year=2025&id=66 (PAC 2025 archive - SUCCESS)",
+    "https://www.parlimen.gov.my/ipms/eps/2026-07-08/DR.22.2026%20-%20DR22.2026.pdf (PAC LCS report - SUCCESS, KEYSTONE)",
+    "https://www.parlimen.gov.my/pac/ahli-jawatankuasa.html (PAC committee page - rules only)",
+    "https://www.bharian.com.my/berita/nasional/2026/07/1584583/lcs-pac-kemuka-6-syor-kepada-kerajaan (antibot FAIL)",
+    "https://www.nst.com.my/news/nation/2026/07/1483481/pac-demands-strict-oversight-financial-discipline-rm1122bil-lcs-project (antibot partial)",
+    "https://www.sinarharian.com.my/article/760987/berita/nasional/umany-gesa-adam-adli-mansuhkan-auku-dan-ptptn (SUCCESS)",
+    "https://ms.wikipedia.org/wiki/Adam_Adli_Abdul_Halim (SUCCESS)",
+    "https://www.freemalaysiatoday.com/category/nation/2026/02/09/adam-vows-to-do-whats-necessary-as-students-seek-abolition-of-auku (SUCCESS)"
+  ],
+  "raw_scrapes_saved": [
+    "PIR04-pac-lcs-tldm-report-dr22-2026-KEYSTONE.md",
+    "PIR03-airtimes-adly-mindef-capability-gaps-20251006.md",
+    "PIR03-airtimes-adly-perhebat-transformation-2026-20260206.md",
+    "PIR03-mod-gov-my-adly-office-directory.md",
+    "PIR04-bharian-hmetro-mas-ermieyati-bersatu-suspension-202603.md",
+    "PIR04-parlimen-pac-2026-reports-list.md",
+    "PIR04-nst-bharian-pac-lcs-6-recommendations-202607.md",
+    "PIR04-hmetro-malaysiakini-pac-cooking-oil-subsidy-2025.md",
+    "PIR11-parlimen-gov-my-adam-adli-mp-profile-20260803.md",
+    "PIR11-mswikipedia-adam-adli-profile.md",
+    "PIR11-sinarharian-umany-adam-adli-auku-ptptn-20251218.md",
+    "PIR11-fmt-adam-adli-auku-abolition-20260209.md"
+  ],
+  "key_findings": {
+    "bersatu_suspension_verified": "Mas Ermieyati BERSATU membership suspended 2 terms/6 years, March 2026, for violating party constitution & code of conduct (bharian + hmetro) — VERIFIES cycle 1's #1 unverified signal",
+    "pac_chair_status_resolved": "Mas Ermieyati CONFIRMED still PAC chair Feb-Jul 2026 (L1 PAC report DR.22/2026 names her as Chairman) DESPITE BERSATU suspension — parliamentary appointment not removed by party suspension",
+    "pac_2026_agenda_obtained": "6 PAC reports tabled in 2026: cooking oil subsidies (KPDN), govt vehicles (MOF), LCS/TLDM (MINDEF), airports (MOF/Transport/MAHB), health insurance (MOF/Health/BNM), FELCRA palm oil (KKDW)",
+    "cross_poi_keystone": "PAC LCS report DR.22/2026 (Mas Ermieyati chair) scrutinises Adly Zahari's MINDEF flagship RM11.22B LCS procurement — 6 recommendations, no additional funds, cost ceiling cap. DIRECT PAC↔MINDEF accountability link.",
+    "adly_2026_initiatives": "Two 2025-2026 MINDEF initiatives Adly is personally driving: (1) capability gaps statement Oct 2025 (EW, air defence, C-UAS, AI/C2, DIPKN, UAV Anka-S); (2) PERHEBAT Transformation Plan 2026-2035 (veterans workforce, 62+ partners)",
+    "adly_office_tri_service": "Adly's MINDEF office has tri-service military aides (Army Col + Air Force Mejar TUDM + Navy Lt Kdr TLDM) — consistent with cross-service deputy oversight incl. TLDM LCS",
+    "adam_adli_current_status": "L1 parliament profile (updated 03/08/2026) confirms Adam Adli incumbent Timbalan Menteri Pendidikan Tinggi + MP P137 Hang Tuah Jaya",
+    "adam_adli_2026_policy": "Adam Adli AUKU policy position (9 Feb 2026, FMT): received 40-student memorandum, promised 'necessary steps' on AUKU abolition; ministry had said no full abolition planned",
+    "adam_adli_replacement": "Adam Adli replaced Datuk Mustapha Sakmud as Deputy Higher Ed (Dec 2025 reshuffle) — new succession detail"
+  },
+  "open_gaps_remaining": [
+    "PIR-03: No Adly visit/statement specific to Malacca-based 3rd Div/10 Para Bde bases captured (agentic Melaka-base nexus still open); no Melaka-specific defence-industry investment",
+    "PIR-04: Full text of all 6 PAC 2026 recommendations (only LCS detail obtained); detailed findings of cooking oil/airport/health insurance reports",
+    "PIR-11: Specific 2026 Dewan Rakyat questions/speeches by Adam Adli (Hansard not directly extracted); explicit ministerial-promotion signal not found"
+  ],
+  "cvs_register_update": "Appended 12 claims (CVS-MLK-109 to CVS-MLK-120): 5 T1 verified, 7 T2 partially verified. Register now 120 data rows.",
+  "next_cycle_suggestions_written_to": "07-AUDIT/top3-mlk-suggestions-CJMLK02.md (overwritten)"
+}
