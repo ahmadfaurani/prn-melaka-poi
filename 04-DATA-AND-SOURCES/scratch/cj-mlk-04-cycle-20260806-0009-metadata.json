@@ -1,0 +1,55 @@
+{
+  "cronjob": "CJ-MLK-04",
+  "cycle": 3,
+  "collection_timestamp": "2026-08-06 00:09 MYT (UTC+8)",
+  "collector": "zai-org/GLM-5.2",
+  "pirs_addressed": ["PIR-POI-MLK-12", "PIR-POI-MLK-13", "PIR-POI-MLK-14", "PIR-POI-MLK-15"],
+  "auto_approved_suggestions_consumed": 3,
+  "raw_scrapes_saved": 10,
+  "raw_scrape_files": [
+    "PIR14-malaysiakini-shamsul-digugurkan-pkr-melaka-20251216-KEYSTONE.md",
+    "PIR14-thevibes-adam-adli-acting-pkr-melaka-chairman-20251217.md",
+    "PIR14-malaymail-adam-adli-acting-mpn-jul2026.md",
+    "PIR15-star-bakri-baba-nyonya-parliament-speech-20260121-KEYSTONE.md",
+    "PIR15-mymp-bakri-parliamentary-record-117-questions-KEYSTONE.md",
+    "PIR12-15-fmt-radzi-jidin-pn-melaka-leadership-20260514-KEYSTONE.md",
+    "PIR15-harakah-bakri-pm-kumar-lobak-campaign-20260731.md",
+    "PIR14-sinarharian-shamsul-reformasi-pisau-kiri-20250921.md",
+    "PIR14-parlimen-gov-my-shamsul-archived-mp-profile-L1.md",
+    "PIR-ALL-wikipedia-prn-melaka-2026-constituency-list.md",
+    "PIR12-15-tiktok-facebook-bakri-dewan-rakyat-zulkifli-ulama-roles.md"
+  ],
+  "cvs_claims_logged": 12,
+  "cvs_claim_range": "CVS-MLK-140 to CVS-MLK-151",
+  "cvs_register_total": 152,
+  "pir_status": {
+    "PIR-12": "RESOLVED (structure) — PAS-Bersatu coordination institutionalized via PN Melaka; post-break operational status open",
+    "PIR-13": "STABLE — no new developments; Helmy EXCO role confirmed, succession open",
+    "PIR-14": "RESOLVED — Shamsul dropped from PKR Melaka Chairman 15 Dec 2025; Adam Adli acting; L1 archive confirms former-MP; corruption case unchanged",
+    "PIR-15": "RESOLVED — 117 questions/21 motions/89/90 attendance; royal address speech; oral questions via TikTok; NEW 4th role as PN Melaka Secretary"
+  },
+  "key_findings": [
+    "Shamsul Iskandar formally dropped (digugurkan) from PKR Melaka MPN Chairman on 15 Dec 2025 by PKR Political Bureau — 11 days after corruption charges",
+    "Adam Adli appointed Acting PKR Melaka Chairman (effective 15 Dec 2025, still acting as of 15 Jul 2026); portfolio changed from Deputy Youth & Sports to Deputy Higher Education",
+    "Shamsul's Hang Tuah Jaya branch chairmanship retained — partial discipline, not full expulsion",
+    "Parlimen.gov.my L1 official archive confirms Shamsul as former MP P137 Hang Tuah Jaya",
+    "Bakri Jamaluddin parliamentary record: 117 questions, 21 motions, 89/90 attendance (98.9%) via MYMP.org.my",
+    "Bakri delivered royal address debate speech (21 Jan 2026) — Baba Nyonya/Chetty national unity icons (The Star)",
+    "Bakri oral questions confirmed via TikTok: Health Minister (21 Jan 2026) + MARDI Director General",
+    "Bakri NEW 4th role: Secretary (Setiausaha) of PN Melaka (FMT 14 May 2026) — administrative-operations hub",
+    "Zulkifli NEW roles: Deputy Chairman PN Melaka (FMT 14 May 2026) + Timbalan Ketua Dewan Ulamak PAS Pusat (Facebook official)",
+    "Full PN Melaka structure: Chairman Radzi (BERSATU) + Deputy Zulkifli (PAS) + Secretary Bakri (PAS) + Election Director Ali (BERSATU ex-UMNO)",
+    "Bakri cross-state PN campaign for PM Kumar in N.11 Lobak NS PRN (Harakah 31 Jul 2026); operates tanpa peruntukan (no govt allocation)",
+    "PRN Melaka 2026: BN 20 / PH 5 / PN 3 (PAS 1 + BERSATU 1 + WAWASAN 1); 28 seats, 15 majority"
+  ],
+  "new_role_inventories": {
+    "zulkifli_ismail": ["PAS Commissioner Melaka", "MP Jasin P139", "Deputy Head PAS Central Ulama Council", "Deputy Chairman PN Melaka"],
+    "bakri_jamaluddin": ["MP Tangga Batu P136", "Deputy PAS Commissioner Melaka", "PAS Central Committee member", "Secretary PN Melaka"],
+    "shamsul_iskandar": ["Hang Tuah Jaya branch chairman (RETAINED only role)"]
+  },
+  "next_cycle_suggestions": [
+    "11 Aug 2026 Special Dewan Rakyat sitting — time-sensitive parliamentary observation (PIR-15/14)",
+    "Post-break PN Melaka operational status — did PAS-Bersatu break (8-9 Jun 2026) disrupt the 14 May 2026 structure? (PIR-12)",
+    "Mohd Noor Helmy nominated-ADUN amendment role + EXCO policy initiatives (PIR-13 — least-developed)"
+  ]
+}
