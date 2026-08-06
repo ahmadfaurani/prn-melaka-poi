@@ -1,0 +1,13 @@
+{"file":"PIR10-utusan-ph-melaka-muktamad-keluar-20260716","timestamp":"2026-08-06 06:00 +08","entities":{
+"pois":[
+{"name":"Ab Rauf Yusoh","mentions":1}
+,
+{"name":"Adly Zahari","mentions":3}
+,
+{"name":"Adam Adli","mentions":2}
+],
+"dun_seats":[
+{"constituency":"Bukit Katil","mentions":3}
+,
+{"constituency":"Rim","mentions":1}
+]}}

@@ -1,48 +1,48 @@
 # TOP 3 PIR SUGGESTIONS FOR NEXT CYCLE (AUTO-APPROVED) — CJ-MLK-01
 
 **Cronjob:** CJ-MLK-01 (Executive Leadership & Governance)
-**Cycle:** 2026-08-06 01:03 MYT (Cycle 3)
+**Cycle:** 2026-08-06 13:23 MYT (Cycle 4)
 **Author:** CJ-MLK-01 Collection Agent
 **Status:** AUTO-APPROVED by Director protocol — to be incorporated as additional search queries in the next CJ-MLK-01 cycle.
 
 ---
 
-## Suggestion 1: PRN Melaka Dissolution Timeline & Writ of Election — The September 2026 Window
+## Suggestion 1: PKR National Congress (Aug 15-16 in Melaka) — Political Catalyst Event
 
-**Text:** Track the concrete PRN Melaka dissolution timeline: when Ab Rauf advises the Yang Dipertua Negeri (Tun Mohd Ali Rustam) to dissolve the State Assembly, the Writ of Election issuance date, Nomination Day, and Polling Day. Ab Rauf hinted "within 4 months" (May 17) and "within 120 days" (May 17 Wikipedia). The window is September-October 2026. Also track the PKR National Congress (Aug 15-16 in Melaka) as a potential catalyst event — Anwar may make PRN-related announcements. Capture any SPR (Election Commission) announcements on Melaka PRN logistics.
+**Text:** The PKR National Congress is scheduled for August 15-16 in Melaka — 9 days from now. This is the most time-sensitive upcoming event. Monitor for: (a) Anwar's keynote — any PRN Melaka-related announcements, dissolution timeline hints, or coalition directives; (b) DAP's position vis-à-vis the Unity Government (the cycle 3 "16 Ogos" reference may be resolved here); (c) any PKR-PH response to BN-PN coalition formation in Melaka; (d) attendance/absence of BN/UMNO leaders (Ab Rauf as host CM); (e) any Akmal response or counter-statement. The congress on Melaka soil makes Ab Rauf the de facto host — a governance × politics intersection.
 
-**Rationale:** The PRN Melaka timeline is the master variable — all coalition negotiations, candidate selection, and ground mobilization culminate in the dissolution → writ → nomination → polling sequence. Currently we have "by September 2026" and "by November 2026" (constitutional deadline) but no confirmed dissolution date. The PKR Congress in Melaka (Aug 15-16) is a natural inflection point. Directly advances PIR-01 (governance continuity), PIR-06 (coalition timeline), and PIR-07 (mobilization timeline).
+**Rationale:** The PKR Congress is the natural inflection point for PRN Melaka timeline announcements. If Anwar signals dissolution timing or coalition parameters, this directly advances PIR-01 (governance continuity), PIR-06 (federal-state dynamics), and PIR-07 (mobilization). The "16 Ogos" mystery (auto-approved S2, unresolved this cycle) may be resolved at the congress. Directly bridges all 5 PIRs.
 
 **Search Queries:**
-1. `PRN Melaka 2026 pembubaran DUN tarikh writ pilihan raya Suruhanjaya Pilihan Raya`
-2. `Ab Rauf Yusoh scatters DUN Melaka September 2026 pilihan raya negeri`
-3. `site:spr.gov.my OR site:spr.gov.my PRN Melaka 2026 tarikh`
+1. `PKR Kongres Nasional 2026 Melaka Anwar ucapan dasar pilihan raya negeri`
+2. `Kongres PKR Melaka Ogos 2026 DAP kerajaan perpaduan keputusan`
+3. `Ab Rauf Yusoh PKR congress Melaka August 2026 host ketua menteri`
 
 ---
 
-## Suggestion 2: "16 Ogos" — DAP's Fate in the Unity Government & Akmal's DAP-Exit Campaign
+## Suggestion 2: RCI Tabung Haji Dewan Rakyat Debate (Aug 11) — Akmal's Measurable Impact
 
-**Text:** The Kosmo article on Akmal (2 Aug) references "16 Ogos ditetapkan sebagai penentu nasib DAP dalam Kerajaan Perpaduan" — August 16 set as the date determining DAP's fate in the federal Unity Government. This coincides with the PKR National Congress (Aug 15-16 in Melaka). Investigate: (a) what decision/event is scheduled for Aug 16 regarding DAP's position in the Unity Government, (b) whether Akmal is campaigning for DAP's exit from the federal government (mirroring DAP's exit from Melaka state government), (c) whether this is a PKR Congress decision, a DAP internal decision, or an Anwar deadline. This directly connects PIR-02 (Akmal's rhetoric trajectory) to PIR-06 (federal-state dynamics).
+**Text:** The special Dewan Rakyat session to debate the RCI Report on Tabung Haji is scheduled for August 11 — 5 days from now. 35-40 MPs have expressed interest. Monitor for: (a) whether Akmal participates or makes statements before/during the debate; (b) any arrests or charges announced (Akmal demanded arrests on 23 Jul); (c) whether the debate produces concrete outcomes (referrals, further investigations); (d) UMNO's positioning in the debate — does Akmal's advocacy translate to party-level action? This is the first measurable institutional response to Akmal's rhetoric.
 
-**Rationale:** If August 16 is a genuine deadline for DAP's federal position, this is the most time-sensitive intelligence target — the event is in ~10 days. Akmal's "DAP fortress cracking" narrative would be dramatically amplified if DAP exits (or is pushed from) the federal government. This bridges PIR-02 (Akmal rhetoric → measurable impact), PIR-06 (federal-state BN-PH dynamics), and PIR-08 (Akmal's national influence). The Kosmo reference is a lead, not a confirmed fact — needs urgent verification.
+**Rationale:** This directly advances PIR-02 (rhetoric → measurable impact). Akmal's Tabung Haji advocacy (23 Jul) is generating a concrete parliamentary response (11 Aug). If arrests follow, Akmal can claim a tangible "win" — strengthening his succession positioning (PIR-08). If the debate produces no action, it weakens his credibility. Either outcome is intelligence-relevant. The MACC investigation (RM370M, CFO testimony, 3 remanded) is ongoing and may produce developments before the debate.
 
 **Search Queries:**
-1. `DAP Kerajaan Perpaduan 16 Ogos 2026 penentu nasib keluar tarikh`
-2. `PKR Kongres Nasional 2026 Melaka Ogos DAP kerajaan perpaduan keputusan`
-3. `Akmal Saleh DAP keluar kerajaan perpaduan Ogos 2026`
+1. `RCI Tabung Haji Dewan Rakyat 11 Ogos 2026 perbahasan keputusan`
+2. `Akmal Saleh Tabung Haji SPRM tangkap dakwa Ogos 2026`
+3. `Suruhanjaya Pencegahan Rasuah Tabung Haji CFO RM370 juta Ogos 2026`
 
 ---
 
-## Suggestion 3: Melaka BN Candidate List & PAS Seat Allocation — The "BN Plus" Operationalization
+## Suggestion 3: SPR Melaka Office & PRN Logistics — The Dissolution Clock
 
-**Text:** Track the operationalization of "BN Plus" in Melaka: (a) Ab Rauf's BN candidate list for PRN Melaka (he claimed 86% new faces last PRN — what's the ratio this time?), (b) how many of the 28 seats will PAS/PN contest, and whether there are overlapping claims, (c) whether Ab Rauf has begun negotiating with PN/PAS on seat allocation, (d) the status of the 7 appointed-ADUN slots (are any filled yet post-DAP-exit?). The NS precedent (BN 18 + PN 7, no overlap) is the model. Ab Rauf said PAS contests 16/28 "their right" (cycle 2) — but that was before the BN-PN coalition was confirmed.
+**Text:** The SPR central website shows no PRN Melaka announcement, but the SPR Melaka state office (ppn.spr.gov.my/melaka/) may have sub-office-level updates. Monitor: (a) SPR Melaka office page for any PRN-related preparations; (b) the constitutional deadline calculation — the current DUN Melaka term expires November 2026 (first sitting after 2021 PRN), giving a hard deadline; (c) Ab Rauf's dissolution advice to Yang di-Pertua Negeri (Tun Ali Rustam) — any signals; (d) whether the HLN 2026 event (6-9 Aug, PM visit) serves as a governance showcase before dissolution; (e) electoral roll updates — SPR's "Semakan Daftar Pemilih Tambahan" (DPT) may indicate PRN preparation.
 
-**Rationale:** Candidate selection is where "BN Plus" becomes operational — it tests whether Ab Rauf's open-door rhetoric translates into actual seat-sharing with PAS. The NS model (BN 18 + PN 7) shows the mechanics. If PAS contests 16/28 as Ab Rauf previously said, there's massive overlap with BN — unless the coalition agreement reduces PAS to ~5-7 seats (like NS). This is the most concrete test of Ab Rauf's autonomy (PIR-06) and the BN-PN coalition's viability (PIR-01). The 7-ADUN slots are the immediate governance question.
+**Rationale:** The dissolution timeline is the master variable (auto-approved S1 from cycle 3, partially resolved this cycle). The constitutional November deadline + Ab Rauf's May hint ("within 4 months") frames the September-October window. The HLN event (PM visit 7 Aug) may be the last major governance showcase before dissolution. SPR Melaka office-level data may surface earlier than central announcements. Advances PIR-01, PIR-06, PIR-07.
 
 **Search Queries:**
-1. `Ab Rauf Yusoh senarai calon BN Melaka PRN 2026 muka baharu`
-2. `PAS PN calon kerusi PRN Melaka 2026 persepakatan BN Plus`
-3. `Melaka ADUN lantikan 7 pelantikan 2026 Ogos senarai nama Ab Rauf`
+1. `site:ppn.spr.gov.my/melaka PRN Melaka 2026 tarikh pengumuman`
+2. `Ab Rauf Yusoh perpisahan DUN Melaka November 2026 perlembagaan tarikh`
+3. `SPR Melaka daftar pemilih tambahan pilihan raya negeri 2026 persediaan`
 
 ---
 

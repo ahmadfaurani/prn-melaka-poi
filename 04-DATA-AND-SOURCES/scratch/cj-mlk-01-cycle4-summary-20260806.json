@@ -1,0 +1,50 @@
+{
+  "cronjob": "CJ-MLK-01",
+  "cycle": 4,
+  "timestamp": "2026-08-06 13:23 MYT",
+  "collection_duration": "single session",
+  "pois": ["Ab Rauf Yusoh", "Dr Muhamad Akmal Saleh"],
+  "pirs_addressed": ["PIR-POI-MLK-01", "PIR-POI-MLK-02", "PIR-POI-MLK-06", "PIR-POI-MLK-07", "PIR-POI-MLK-08"],
+  "articles_collected": 6,
+  "raw_scrapes_saved": [
+    "CRITICAL-13-kosmo-abrauf-tolak-peletakan-akmal-20260408.md",
+    "CRITICAL-14-kosmo-akmal-tabung-haji-pmx-tangkap-20260723.md",
+    "HIGH-13-utusan-melaka-medan-uji-bnpn-penganalisis-20260805.md",
+    "HIGH-14-melakahariini-hln2026-abrauf-pm-anwar-20260804.md",
+    "HIGH-15-kosmo-jadi-pembangkang-lebih-mudah-bn-chinese-20260804.md",
+    "MED-13-kosmo-pilihan-raya-pengundi-dapat-apa-20260806.md"
+  ],
+  "cvs_claims_appended": 12,
+  "cvs_claim_ids": ["CVS-MLK-213", "CVS-MLK-214", "CVS-MLK-215", "CVS-MLK-216", "CVS-MLK-217", "CVS-MLK-218", "CVS-MLK-219", "CVS-MLK-220", "CVS-MLK-221", "CVS-MLK-222", "CVS-MLK-223", "CVS-MLK-224"],
+  "cvs_register_total": 224,
+  "cvs_tier_distribution_new": {"T2": 11, "T5": 1},
+  "cvs_score_distribution_new": [5, 6, 7, 7, 7, 7, 7, 7, 7, 7, 8, 9],
+  "auto_approved_suggestions_consumed": 3,
+  "auto_approved_status": {
+    "S1_dissolution_timeline": "PARTIALLY_RESOLVED",
+    "S2_16_ogos_dap_fate": "NOT_RESOLVED",
+    "S3_candidate_list_seat_allocation": "RESOLVED"
+  },
+  "key_findings": [
+    "KEYSTONE: Ab Rauf rejected Akmal's Melaka Exco resignation (8 Apr) — first documented direct POI institutional nexus",
+    "Akmal rhetoric enters Phase 3: financial accountability/governance activism (Tabung Haji, 23 Jul)",
+    "T5 dispute: Akmal multiracial claim (2 Aug) contradicted by Kosmo editorial (4 Aug) on Chinese voter support",
+    "RCI Tabung Haji debate scheduled 11 Aug — first measurable institutional response to Akmal advocacy",
+    "SPR has NOT announced PRN Melaka dates as of 6 Aug",
+    "HLN 2026 (6-9 Aug) — Ab Rauf hosts PM Anwar in Melaka governance showcase"
+  ],
+  "search_backend_status": "severely_degraded",
+  "sources_used": ["Kosmo Digital", "Utusan Malaysia", "Melaka Hari Ini", "Astro Awani", "SPR website"],
+  "pir_resolution": {
+    "PIR-01": "Resolved (strengthened)",
+    "PIR-02": "Resolved (strengthened)",
+    "PIR-06": "Resolved (strengthened)",
+    "PIR-07": "Partial (maintained)",
+    "PIR-08": "Resolved (strengthened)"
+  },
+  "next_cycle_suggestions": [
+    "PKR National Congress Aug 15-16 in Melaka",
+    "RCI Tabung Haji Dewan Rakyat Debate Aug 11",
+    "SPR Melaka Office & PRN Logistics — dissolution clock"
+  ]
+}

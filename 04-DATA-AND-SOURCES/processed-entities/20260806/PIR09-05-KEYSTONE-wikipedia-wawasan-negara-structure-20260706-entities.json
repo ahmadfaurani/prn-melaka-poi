@@ -1,0 +1,13 @@
+{"file":"PIR09-05-KEYSTONE-wikipedia-wawasan-negara-structure-20260706","timestamp":"2026-08-06 06:00 +08","entities":{
+"pois":[
+{"name":"Mas Ermieyati Samsudin","mentions":2}
+,
+{"name":"Rais Yasin","mentions":1}
+,
+{"name":"Mohd Yadzil Yaakub","mentions":2}
+],
+"dun_seats":[
+{"constituency":"Paya Rumput","mentions":1}
+,
+{"constituency":"Bemban","mentions":5}
+]}}

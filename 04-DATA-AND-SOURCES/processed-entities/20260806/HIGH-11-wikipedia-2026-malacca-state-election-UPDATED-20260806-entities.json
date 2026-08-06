@@ -1,0 +1,21 @@
+{"file":"HIGH-11-wikipedia-2026-malacca-state-election-UPDATED-20260806","timestamp":"2026-08-06 06:00 +08","entities":{
+"pois":[
+{"name":"Ab Rauf Yusoh","mentions":3}
+,
+{"name":"Adly Zahari","mentions":4}
+,
+{"name":"Kerk Chee Yee","mentions":1}
+,
+{"name":"Muhammad Jailani Khamis","mentions":1}
+],
+"dun_seats":[
+{"constituency":"Tanjung Bidara","mentions":3}
+,
+{"constituency":"Rembia","mentions":3}
+,
+{"constituency":"Sungai Udang","mentions":1}
+,
+{"constituency":"Ayer Keroh","mentions":1}
+,
+{"constituency":"Bukit Katil","mentions":2}
+]}}
