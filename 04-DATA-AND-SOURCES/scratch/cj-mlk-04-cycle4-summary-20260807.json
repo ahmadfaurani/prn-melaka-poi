@@ -1,0 +1,34 @@
+{
+  "cronjob": "CJ-MLK-04",
+  "cycle": 4,
+  "timestamp": "2026-08-07 00:08 MYT",
+  "timestamp_utc": "2026-08-06 16:08 UTC",
+  "pirs_addressed": ["PIR-POI-MLK-12", "PIR-POI-MLK-13", "PIR-POI-MLK-14", "PIR-POI-MLK-15"],
+  "cycle_outcomes": {
+    "PIR-12": "POST-BREAK RESOLVED — PAS terminated BERSATU cooperation (8 Jun 2026); PN Melaka structure fundamentally disrupted; PAS expanding from 9 to 16 seats; BN-PN cooperation discussed",
+    "PIR-13": "SIGNIFICANTLY ENRICHED — Wikipedia full profile (UMNO AJK, TikTok 1.2M, PATI stance); DUN amendment 23-5 vote (Helmy not speaker); cross-community appeal confirmed; self-assessment 'given my best'; PAS to contest Duyong",
+    "PIR-14": "MAINTAINED (resolved Cycle 3) — no new developments; 11 Aug sitting = Tabung Haji RCI",
+    "PIR-15": "MAINTAINED + post-break context — PN Melaka Secretary role uncertain; 11 Aug sitting 4 days away"
+  },
+  "raw_scrapes_saved": 8,
+  "cvs_claims_logged": 14,
+  "cvs_claim_range": "CVS-MLK-275 to CVS-MLK-288",
+  "cvs_register_total": 288,
+  "sources_used": [
+    "berita.pas.org.my",
+    "harakahdaily.net (x2)",
+    "freemalaysiatoday.com",
+    "astroawani.com",
+    "themalaysiapress.com",
+    "themerdekatimes.com",
+    "wikipedia.org (EN+MS, x2)",
+    "malaysiakini.com",
+    "utusan.com.my",
+    "melakahariini.my",
+    "1media.my"
+  ],
+  "auto_approved_suggestions_consumed": 3,
+  "new_suggestions_generated": 3,
+  "report_file": "01-DAILY-INTELLIGENCE/cj-mlk-04-grassroots-secondary-20260807-0008MYT.md",
+  "suggestions_file": "07-AUDIT/top3-mlk-suggestions-CJMLK04.md"
+}
