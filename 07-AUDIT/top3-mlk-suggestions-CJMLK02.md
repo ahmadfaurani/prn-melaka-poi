@@ -1,64 +1,61 @@
 # TOP 3 PIR SUGGESTIONS FOR NEXT CYCLE (AUTO-APPROVED) — CJ-MLK-02
 
 **Cronjob:** CJ-MLK-02 (Defence, Parliament & Federal Portfolios)
-**Cycle:** 2026-08-06 01:15 MYT (third cycle)
+**Cycle:** 2026-08-06 13:34 MYT (fourth cycle)
 **Author:** CJ-MLK-02 Collection Agent
 **Status:** AUTO-APPROVED by Director protocol — to be incorporated as additional search queries/extractions in the next CJ-MLK-02 cycle.
 
-**Cycle 3 outcome:**
-1. ✅ Suggestion 1 (PAC non-LCS PDFs) — PARTIAL: 6 reports + PDF URLs re-confirmed (L1); 5 PDF contents BLOCKED (size limit + HTTP 000).
-2. ✅ Suggestion 2 (Adly Melaka-base + LCS response) — RESOLVED (Melaka-base): Adly at Kem Terendak Melaka (8 Apr 2026, L1+L4) + DSA2026 RM3.54B + Azerbaijan bilateral + National Defence Policy talk. Adly LCS/PAC response NOT surfaced (token collision).
-3. ✅ Suggestion 3 (Adam Adli Hansard + policy + promotion) — PROGRESS: concrete PTPTN reform output (17 Jun 2026) + cabinet-reshuffle succession + MPP PKR. Hansard NOT obtained (token collision). Direct promotion signal NOT found.
+**Cycle 4 outcome:**
+1. ✅ Suggestion 1 (PAC non-LCS PDFs + Adly LCS response) — RESOLVED (findings via L4 news): MAHB 70%, vehicles MOF study, insurance 17 recs, FELCRA compliance obtained. Adly LCS response still not surfaced BUT a better cross-POI item (PAC Norway-missile summons to MINDEF, 11 Jun) discovered. L1 PDF extraction remains future task.
+2. ✅ Suggestion 2 (Adam Adli Hansard + AUKU + PKR Congress) — PROGRESS: first 2026 Dewan Rakyat contributions obtained (29 Jun, 25 Jun) + policy suite. AUKU follow-through NOT surfaced. PKR Congress 15-16 Aug Melaka NOT surfaced (9 days out, no pre-coverage).
+3. ✅ Suggestion 3 (Mas Ermieyati trajectory + PAC forward agenda) — PROGRESS: BERSATU crisis documented (13 MPs demand exit PN) + eFishery/KWAP new-probe discussion (16 Jul). Mas Ermieyati personal next move NOT surfaced. 11 Aug sitting clarified = Tabung Haji RCI, NOT PAC (honest negative).
 
-**Keystone finding this cycle:** PIR-03 FULLY RESOLVED — Adly personally officiated IA-ATM at Kem Terendak Melaka (8 Apr 2026, L1 mod.gov.my), closing the cycle-2 Melaka-base agency gap. Combined with RM3.54B DSA2026 contracts (KSU Lokman Hakim = PAC LCS witness present), procurement freeze, Azerbaijan bilateral, and National Defence Policy lecture, Adly's defence agency is now full-spectrum.
+**Keystone finding this cycle:** PIR-04 substantive-findings blocker RESOLVED via L4 news-coverage fallback — the cycle-3 PDF-extraction blocker is bypassed with substantive findings for 4 of 5 non-LCS reports. PLUS a NEW cross-POI item: PAC summoned MINDEF on Norway missiles (11 Jun 2026), making MINDEF under PAC scrutiny on ≥2 procurement matters (LCS + Norway missiles), with KSU Lokman Hakim (the PAC LCS witness) concurrently executing Singapore/HQIADS defence diplomacy (4 Aug, L1).
 
-**Cross-POI institutional link deepened:** KSU Datuk Lokman Hakim Ali — named as witness in PAC LCS report (DR.22/2026) — was present at the DSA2026 RM3.54B contract signing. The PAC-scrutinised MINDEF leadership is the same leadership signing new procurement.
-
----
-
-## Suggestion 1: Retry PAC Non-LCS Report PDF Extraction via Alternate Route + Seek Adly's Public Response to the PAC LCS Directive
-
-**Text:** The 5 non-LCS PAC report PDFs (DR.27/23/20/12/9) remain unextracted — the confirmed URLs (docs-323-400.pdf through docs-314-385.pdf) failed both web_extract (size limit) and curl (HTTP 000). The next cycle should: (a) retry extraction via alternate methods — a smaller-chunk PDF text extraction (curl with byte-range `-r 0-1000000`), a headless-browser fetch, or a different network path; (b) if extraction remains blocked, search for *news coverage* of each report's findings (NST/Bharian/Astro Awani typically report PAC report tablings) to obtain the substantive findings at L4 level; (c) the cooking-oil report (DR.27/2026, most recent, 16 Jul) is highest priority as it connects to the documented border working visit. Separately, Adly's public response to the PAC's RM11.22B LCS "no additional funds" directive (DR.22/2026) was not found this cycle due to search token collision — the next cycle should target this via Malay-specific queries and MINDEF news.
-
-**Rationale:** PIR-04's substantive findings layer (agenda → findings) remains the open dimension. The PDF URL pattern is now confirmed (no guessing needed). The LCS-response angle is a fresh cross-POI monitoring item created by the cycle-2 keystone and reinforced by this cycle's procurement-freeze signal.
-
-**Search Queries / Direct Extractions:**
-1. Retry: `web_extract` each PDF; or `curl -r 0-1000000` (range-limited) + `pdftotext -f 1 -l 20` (first 20 pages)
-2. `PAC DR.27 2026 minyak masak KPDN dapatan` / `PAC DR.23 2026 kenderaan kerajaan MOF` (news-coverage fallback)
-3. `PAC DR.20 2026 lapangan terbang MAHB` / `PAC DR.12 2026 insurans kesihatan BNM` / `PAC DR.9 2026 FELCRA sawit`
-4. `Adly Zahari respons syor PAC LCS mindef 2026` / `Adly Zahari kapal peronda PAC bajet 2026` (Adly LCS response)
-5. Direct extract: `https://www.mod.gov.my` news + `https://www.nst.com.my` for PAC LCS response coverage
+**Cross-POI institutional link now multi-vector:** PAC (Mas Ermieyati) ↔ MINDEF (Adly/Khaled Nordin/KSU Lokman Hakim) spans LCS (DR.22/2026), Norway missiles (11 Jun 2026), and the RM3.54B DSA2026 procurement environment.
 
 ---
 
-## Suggestion 2: Adam Adli's 2026 Dewan Rakyat Hansard Contributions + AUKU Memorandum Follow-Through + Direct Ministerial-Promotion Signal (PKR Congress 15-16 Aug Melaka)
+## Suggestion 1: Deep-Mine the PAC↔MINDEF Norway Missile Proceeding + Adly's LCS/Procurement Response + Cooking-Oil Report Findings
 
-**Text:** Adam Adli's concrete PTPTN reform output (17 Jun 2026) is captured, but PIR-11 still lacks his *specific 2026 parliamentary performance* (Dewan Rakyat questions answered, speeches) and the *follow-through on the AUKU memorandum* he received on 9 Feb 2026. The next cycle should: (a) extract the Parliament Hansard for Adam Adli's 2026 contributions — try the parlimen.gov.my oral-questions/Hansard search via direct URL navigation (MP profile id=4176 may link to contributions) or search via `soalan jawab lisan parlimen 2026 pengajian tinggi timbalan menteri`; (b) seek any formal MOHE response to the AUKU abolition memorandum (the ministry said "no full abolition" — has Adam Adli's deputy posture produced any amendment or policy shift since Feb 2026?); (c) monitor for a direct ministerial-promotion signal — PKR National Congress is scheduled 15-16 Aug 2026 in Melaka (CVS-MLK-166), which is a high-probability window for leadership/promotion signals and is itself a Melaka-relevant event.
+**Text:** This cycle discovered a NEW cross-POI item — the PAC summoned MINDEF to clarify the Norway missile (peluru berpandu Norway) issue on 11 June 2026 — but only at headline level (Astro Awani). The next cycle should: (a) deep-mine the Norway-missile proceeding — seek the specific missile system involved, MINDEF's formal response, and whether Adly Zahari personally responded or was summoned; try Astro Awani/NST/Bernama coverage of the proceeding, and a MINDEF official statement; (b) re-attempt Adly's personal public response to the PAC LCS RM11.22B directive (DR.22/2026) — this sub-gap has persisted 2 cycles — via Malay queries `Adly Zahari respons PAC LCS mindef` / `Adly kapal peronda PAC`; (c) seek the cooking-oil report (DR.27/2026) specific findings — the one non-LCS report whose findings were not obtained this cycle — via `PAC minyak masak dapatan 2026` / news of the tabled findings.
 
-**Rationale:** PIR-11's parliamentary-performance and promotion-signal dimensions remain open. The PKR Congress (15-16 Aug, Melaka) is both a promotion-signal window and a Melaka-nexus event — doubly relevant to this workspace. It is also time-sensitive (9-10 days from this collection).
+**Rationale:** The Norway-missile PAC summons is the highest-value new cross-POI item — MINDEF is now under PAC scrutiny on ≥2 matters, directly linking PIR-04 and PIR-03. The LCS-response sub-gap has persisted 2 cycles and is now doubly relevant. The cooking-oil findings close the last PIR-04 findings gap (5 of 5 non-LCS reports).
 
-**Search Queries / Direct Extractions:**
-1. `parlimen.gov.my` Hansard/oral-questions for "Timbalan Menteri Pendidikan Tinggi" 2026 (navigate MP profile id=4176)
-2. `Adam Adli AUKU memorandum respons 2026 pindaan` / `KPT AUKU pindaan 2026 Adam Adli` (AUKU follow-through)
-3. `Kongres Nasional PKR 2026 Melaka Adam Adli` / `rombakan kabinet 2026 Ogos PKR menteri` (promotion signal + PKR Congress)
-4. Direct extract: `https://www.mohe.gov.my` news for Adam Adli statements/programme launches
-5. Monitor PKR Congress 15-16 Aug 2026 Melaka outcomes
-
----
-
-## Suggestion 3: Mas Ermieyati's Post-BERSATU-Suspension Political Trajectory + PAC's Forward Agenda (Post-LCS + Special Sitting 11 Aug)
-
-**Text:** Mas Ermieyati's BERSATU suspension (2 terms/6 years, March 2026) is verified, and her PAC chair status is confirmed (L1, despite suspension). But two forward-looking dimensions of PIR-04 are unmonitored: (a) her *political trajectory post-suspension* — does she remain with BERSATU/PN, defect (WAWASAN was flagged in CJ-MLK-03 as a possible destination), go independent, or align with another force? Her Ketua Srikandi BERSATU role was stripped; her next political move affects the PAC chair's political standing and the cross-POI oversight architecture; (b) the PAC's *forward agenda* post-LCS — the 6 reports are tabled, but is the PAC opening new probes, scheduling follow-up proceedings, or issuing further directives to MINDEF (especially given the procurement-freeze signal)? The special Dewan Rakyat sitting (11 Aug 2026, CVS-MLK-084) may table new PAC business.
-
-**Rationale:** PIR-04's *agenda* is answered; the *forward trajectory* (Mas Ermieyati's political future + PAC's next moves) is the live monitoring layer. Her post-suspension political move is time-sensitive and affects the cross-POI oversight architecture (PAC chair scrutinising MINDEF). The 11 Aug special sitting is 5 days from collection.
-
-**Search Queries / Direct Extractions:**
-1. `Mas Ermieyati Samsudin 2026 Ogos politik` / `Mas Ermieyati WAWASAN OR PN OR bebas 2026` (political trajectory)
-2. `PAC Parlimen 2026 Ogos prosiding baru` / `jawatankuasa kira wang sidang khas Ogos 2026` (forward agenda)
-3. `Mas Ermieyati Srikandi BERSATU jawatan 2026` (stripped-role confirmation)
-4. Monitor special Dewan Rakyat sitting 11 Aug 2026 for PAC business
-5. `PAC MINDEF LCS pemantauan 2026 Ogos` (follow-up LCS monitoring)
+**Search Queries / Extractions:**
+1. `PAC Mindef Norway peluru berpandu respons` / extract Astro Awani search `Norway` + `Mindef` ; NST/Bernama coverage
+2. `Adly Zahari respons PAC LCS mindef 2026` / `Adly kapal peronda PAC bajet` (Adly LCS response — 3rd attempt)
+3. `PAC DR.27 2026 minyak masak dapatan` / `PAC cooking oil report findings 2026` (cooking-oil findings)
+4. Direct extract: mod.gov.my news for MINDEF Norway-missile statement; parlimen.gov.my PAC proceedings if accessible
 
 ---
 
-*End of auto-approved suggestions for CJ-MLK-02 cycle 4 — to be consumed by next CJ-MLK-02 cycle.*
+## Suggestion 2: PKR National Congress 15-16 Aug Melaka — Promotion Signal + Adam Adli's AUKU Follow-Through + Minister Name Reconciliation
+
+**Text:** The PKR National Congress (15-16 Aug 2026, Melaka) is the highest-probability window for a ministerial-promotion signal and is a Melaka-nexus event — but was not yet covered in cycle-4 sources (event was ~9 days out at collection). The next cycle should: (a) monitor PKR Congress outcomes for leadership/promotion signals involving Adam Adli — his Acting MPN PKR Melaka chair role makes him a likely congress participant, and the Melaka venue makes it doubly workspace-relevant; (b) seek the AUKU memorandum follow-through — any MOHE policy shift, amendment, or formal response since Adam Adli received the AUKU abolition memorandum (9 Feb 2026); (c) reconcile the Higher Education Minister name — Wikipedia lists "Zambry Abdul Kadir" as current minister, but cycle-3's cabinet-reshuffle scrape should be cross-checked (CVS-MLK-241 flagged this as a potential T5).
+
+**Rationale:** The PKR Congress is time-sensitive (imminent), doubly relevant (Melaka + promotion signal), and is the last open PIR-11 promotion-signal window. The AUKU follow-through closes the policy-trajectory loop. The minister-name reconciliation clears a flagged T5 discrepancy.
+
+**Search Queries / Extractions:**
+1. `Kongres Nasional PKR 2026 Melaka Adam Adli` / `PKR congress Melaka Ogos 2026 rombakan kabinet` (promotion signal + congress)
+2. `Adam Adli AUKU pindaan 2026 MOHE` / `KPT AUKU memorandum respons 2026` (AUKU follow-through)
+3. `Menteri Pengajian Tinggi 2026 Zambry OR Sakmud` / direct extract mohe.gov.my (minister reconciliation)
+4. Monitor PKR Congress 15-16 Aug 2026 Melaka outcomes post-event
+
+---
+
+## Suggestion 3: Mas Ermieyati's Post-Suspension Political Next Move + PAC eFishery/KWAP Probe Confirmation + Women Chief Role T5 Reconciliation
+
+**Text:** Two PIR-04 forward-trajectory dimensions remain open: (a) Mas Ermieyati's personal next move — her BERSATU membership is suspended (since 2026, L4 confirmed), her party is fracturing (13 MPs demand exit PN, 10 Jun; MPs met without Bersatu, 17 Jun), and she has not publicly aligned with a new force. The next cycle should seek whether she remains BERSATU, goes independent, or defects (WAWASAN was flagged in CJ-MLK-03 as a possible destination; her MM2H controversy and Tanjung Bidara loss to Ab Rauf are context); (b) confirm whether the PAC has formally OPENED the KWAP/eFishery investigation — this cycle found it at "discussing need to investigate" stage (16 Jul 2026); track for a formal proceeding announcement; (c) reconcile the BERSATU Women Chief (Ketua Srikandi) role — Wikipedia lists "Oct 2024 – present" but cycle-3 noted the role was "stripped" post-suspension (CVS-MLK-239 T5 flag).
+
+**Rationale:** Mas Ermieyati's political next move shapes the PAC chair's standing and the cross-POI oversight architecture (a PN/BERSATU MP chairing PAC under PH government). The eFishery/KWAP probe is the most likely next PAC proceeding (extends scrutiny to pension-fund investment). The Women Chief T5 is a documented discrepancy to resolve.
+
+**Search Queries / Extractions:**
+1. `Mas Ermieyati Samsudin 2026 Ogos politik WAWASAN OR bebas OR Bersatu` (political next move)
+2. `PAC KWAP eFishery siasat rasmi 2026 Ogos` / `jawatankuasa kira wang KWAP eFishery` (probe confirmation)
+3. `Mas Ermieyati Srikandi BERSATU jawatan digantung 2026` (Women Chief role T5 reconciliation)
+4. Direct extract: Astro Awani search `Mas Ermieyati` for any Aug 2026 political alignment statement
+
+---
+
+*End of auto-approved suggestions for CJ-MLK-02 cycle 5 — to be consumed by next CJ-MLK-02 cycle.*
