@@ -1,0 +1,85 @@
+{"file":"PIR-ALL-wikipedia-prn-melaka-2026-28seat-table-20260807","timestamp":"2026-08-07 11:32 +08","entities":{
+"pois":[
+{"name":"Ab Rauf Yusoh","mentions":2}
+,
+{"name":"Muhamad Akmal Saleh","mentions":2}
+,
+{"name":"Adly Zahari","mentions":1}
+,
+{"name":"Mohd Noor Helmy","mentions":1}
+,
+{"name":"Sulaiman Md Ali","mentions":1}
+,
+{"name":"Rais Yasin","mentions":1}
+,
+{"name":"Rahmad Mariman","mentions":1}
+,
+{"name":"Mohd Yadzil Yaakub","mentions":1}
+,
+{"name":"Fairul Nizam Roslan","mentions":1}
+,
+{"name":"Ngwe Hee Sem","mentions":1}
+,
+{"name":"Kerk Chee Yee","mentions":1}
+,
+{"name":"Muhammad Jailani Khamis","mentions":1}
+,
+{"name":"Hameed Mytheen","mentions":1}
+],
+"dun_seats":[
+{"constituency":"Kuala Linggi","mentions":1}
+,
+{"constituency":"Tanjung Bidara","mentions":2}
+,
+{"constituency":"Ayer Limau","mentions":1}
+,
+{"constituency":"Lendu","mentions":1}
+,
+{"constituency":"Taboh Naning","mentions":1}
+,
+{"constituency":"Rembia","mentions":1}
+,
+{"constituency":"Gadek","mentions":1}
+,
+{"constituency":"Machap Jaya","mentions":1}
+,
+{"constituency":"Durian Tunggal","mentions":1}
+,
+{"constituency":"Asahan","mentions":1}
+,
+{"constituency":"Sungai Udang","mentions":1}
+,
+{"constituency":"Pantai Kundor","mentions":1}
+,
+{"constituency":"Paya Rumput","mentions":1}
+,
+{"constituency":"Kelebang","mentions":1}
+,
+{"constituency":"Pengkalan Batu","mentions":1}
+,
+{"constituency":"Ayer Keroh","mentions":1}
+,
+{"constituency":"Bukit Katil","mentions":1}
+,
+{"constituency":"Ayer Molek","mentions":1}
+,
+{"constituency":"Kesidang","mentions":1}
+,
+{"constituency":"Kota Laksamana","mentions":1}
+,
+{"constituency":"Duyong","mentions":3}
+,
+{"constituency":"Bandar Hilir","mentions":1}
+,
+{"constituency":"Telok Mas","mentions":1}
+,
+{"constituency":"Bemban","mentions":1}
+,
+{"constituency":"Rim","mentions":2}
+,
+{"constituency":"Serkam","mentions":1}
+,
+{"constituency":"Merlimau","mentions":1}
+,
+{"constituency":"Sungai Rambai","mentions":1}
+]}}

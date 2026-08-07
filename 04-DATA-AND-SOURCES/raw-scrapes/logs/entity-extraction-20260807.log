@@ -1,0 +1,29 @@
+[2026-08-07 11:32 +08] MLK Entity Extraction starting...
+[2026-08-07 11:32 +08] Processing: CRITICAL-01-kosmo-zahid-21-kerusi-melaka-kekal-bn-20260806
+[2026-08-07 11:32 +08] Processing: CRITICAL-02-kosmo-abrauf-kekosongan-jawatan-ph-dibiar-hingga-prn-20260717
+[2026-08-07 11:32 +08] Processing: CRITICAL-03-kosmo-abrauf-dap-bernikah-tidak-berakad-20260714
+[2026-08-07 11:32 +08] Processing: CRITICAL-05-kosmo-akmal-aku-abu-aku-budak-umno-20260502
+[2026-08-07 11:32 +08] Processing: CRITICAL-07-kosmo-zahid-tidak-kompromi-tabung-haji-20260806
+[2026-08-07 11:32 +08] Processing: CRITICAL-08-kosmo-ismail-sabri-didakwa-20260806
+[2026-08-07 11:32 +08] Processing: CRITICAL-09-astroawani-amk-rafizi-prn-melaka-pecah-undi-20260806
+[2026-08-07 11:32 +08] Processing: CRITICAL-10-astroawani-index-key-developments-20260806
+[2026-08-07 11:32 +08] Processing: HIGH-04-kosmo-abrauf-dun-kekal-tidak-ikut-johor-ns-20260606
+[2026-08-07 11:32 +08] Processing: HIGH-06-kosmo-akmal-sedikit-demi-sedikit-go-solo-20260520
+[2026-08-07 11:32 +08] Processing: HIGH-11-kosmo-zahid-tiada-exco-ph-ns-20260806
+[2026-08-07 11:32 +08] Processing: PIR03-04-astroawani-norway-missile-nsm-full-timeline-20260513-20260706
+[2026-08-07 11:32 +08] Processing: PIR03-11-astroawani-ph-bn-melaka-divorce-adly-adam-adli-20260714-20260716
+[2026-08-07 11:32 +08] Processing: PIR03-modgovmy-mindef-aug2026-fpda-ksu-lokman-20260805
+[2026-08-07 11:32 +08] Processing: PIR11-astroawani-adam-adli-auku-dialogue-minister-zambry-20260119-20260207
+[2026-08-07 11:32 +08] Processing: PIR11-astroawani-pkr-congress-date-discrepancy-t5-20260807
+[2026-08-07 11:32 +08] Processing: PIR12-fmt-pas-generous-seats-melaka-20260804
+[2026-08-07 11:32 +08] Processing: PIR12-harakah-melaka-rumah-terbuka-pas-pusat-20260411
+[2026-08-07 11:32 +08] Processing: PIR12-harakah-pas-sasar-melaka-70tahun-20260426
+[2026-08-07 11:32 +08] Processing: PIR12-pas-bersatu-break-official-20260608
+[2026-08-07 11:32 +08] Processing: PIR13-astroawani-dun-amendment-adun-lantikan-20260714
+[2026-08-07 11:32 +08] Processing: PIR13-malaysiakini-adun-viral-helmy-20260204
+[2026-08-07 11:32 +08] Processing: PIR13-melakahariini-helmy-datuk-award-20230827
+[2026-08-07 11:32 +08] Processing: PIR13-utusan-helmy-lima-tahun-terbaik-20240308
+[2026-08-07 11:32 +08] Processing: PIR13-wikipedia-helmy-profile-20260807
+[2026-08-07 11:32 +08] Processing: PIR-ALL-wikipedia-prn-melaka-2026-28seat-table-20260807
+[2026-08-07 11:32 +08] Entity extraction complete. 91 total matches across 26 files.
+[2026-08-07 11:32 +08] Output: /home/p62operator/.openclaw/workspace-mlk/04-DATA-AND-SOURCES/processed-entities/20260807
