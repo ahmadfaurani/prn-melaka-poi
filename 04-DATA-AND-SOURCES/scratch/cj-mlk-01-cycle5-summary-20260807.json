@@ -1,0 +1,53 @@
+{
+  "cronjob": "CJ-MLK-01",
+  "cycle": 5,
+  "collection_timestamp": "2026-08-07 05:05 MYT",
+  "timestamp_utc": "2026-08-06 21:05 UTC",
+  "date_dir": "20260807",
+  "pois": ["Ab Rauf Yusoh", "Dr Muhamad Akmal Saleh"],
+  "pirs": ["PIR-POI-MLK-01", "PIR-POI-MLK-02", "PIR-POI-MLK-06", "PIR-POI-MLK-07", "PIR-POI-MLK-08"],
+  "articles_collected": 11,
+  "raw_scrape_files": [
+    "CRITICAL-01-kosmo-zahid-21-kerusi-melaka-kekal-bn-20260806.md",
+    "CRITICAL-02-kosmo-abrauf-kekosongan-jawatan-ph-dibiar-hingga-prn-20260717.md",
+    "CRITICAL-03-kosmo-abrauf-dap-bernikah-tidak-berakad-20260714.md",
+    "HIGH-04-kosmo-abrauf-dun-kekal-tidak-ikut-johor-ns-20260606.md",
+    "CRITICAL-05-kosmo-akmal-aku-abu-aku-budak-umno-20260502.md",
+    "HIGH-06-kosmo-akmal-sedikit-demi-sedikit-go-solo-20260520.md",
+    "CRITICAL-07-kosmo-zahid-tidak-kompromi-tabung-haji-20260806.md",
+    "CRITICAL-08-kosmo-ismail-sabri-didakwa-20260806.md",
+    "CRITICAL-09-astroawani-amk-rafizi-prn-melaka-pecah-undi-20260806.md",
+    "CRITICAL-10-astroawani-index-key-developments-20260806.md",
+    "HIGH-11-kosmo-zahid-tiada-exco-ph-ns-20260806.md"
+  ],
+  "sources_hit": ["Kosmo Digital (7)", "Astro Awani (2)", "Kosmo tag pages (2)"],
+  "search_backend_status": "DEGRADED (5th consecutive cycle) - all web_search queries returned empty. Workaround: direct web_extract of news portal tag/index pages",
+  "auto_approved_suggestions_resolution": {
+    "S1_pkr_congress": "RESOLVED - Kongres PKR 2026 confirmed: 15-16 Ogos, MITC Ayer Keroh Melaka, ~2500 delegates + 3000 observers",
+    "S2_rci_tabung_haji_debate": "PARTIALLY RESOLVED - Zahid confirmed RCI presentation 11 Aug in Dewan Rakyat; debate confirmed; no arrests yet",
+    "S3_spr_melaka_dissolution": "STRENGTHENED - Constitutional deadline 30 Dec 2026 confirmed (Ab Rauf 6 Jun); multiple sources state PRN Melaka 'dijangka bulan hadapan' (September)"
+  },
+  "key_findings": [
+    "Zahid formalizes 21-seat defense for BN in Melaka (6 Aug)",
+    "Ab Rauf: DAP exit 'bernikah tidak berakad' - no formal BN-DAP coalition ever existed (14 Jul)",
+    "Ab Rauf: PH vacancies left unfilled until PRN, remaining term 'not long' (17 Jul)",
+    "Ab Rauf: DUN Melaka constitutional deadline 30 Dec 2026; waiting for Johor/NS results (6 Jun)",
+    "Akmal: 'Aku ABU, aku budak UMNO' - denies faction alignment (2 May)",
+    "Akmal: urges UMNO go solo in all states (20 May) - position later overruled by BN-PN coalitions",
+    "Zahid endorses Akmal's Tabung Haji no-compromise position (6 Aug) - 14-day rhetoric-to-policy cycle",
+    "Ismail Sabri charged 7 Aug - RM177M assets seized - reshapes UMNO succession calculus",
+    "PRN Melaka 'dijangka bulan hadapan' - September dissolution window confirmed",
+    "Parti Kancil (Rafizi) entering PRN Melaka - third force vote-splitting variable",
+    "ILHAM Centre: BN-PN cooperation risky for UMNO; 52% young Malay voters PH blind spot",
+    "Perhimpunan Agung UMNO 2026 starts 9 September"
+  ],
+  "cvs_claims_appended": "CVS-MLK-289 to CVS-MLK-299 (11 claims)",
+  "register_total_after": 299,
+  "pir_status": {
+    "PIR-01": "Resolved (strengthened)",
+    "PIR-02": "Resolved (strengthened)",
+    "PIR-06": "Resolved (strengthened)",
+    "PIR-07": "Partial (maintained) - new context but no Melaka-specific Youth metrics",
+    "PIR-08": "Resolved (strengthened)"
+  }
+}
