@@ -1,0 +1,43 @@
+{
+  "cronjob": "CJ-MLK-04",
+  "cycle": 5,
+  "collection_timestamp": "2026-08-08 00:11 MYT",
+  "model": "zai-org/GLM-5.2",
+  "pirs_addressed": ["PIR-POI-MLK-12", "PIR-POI-MLK-13", "PIR-POI-MLK-14", "PIR-POI-MLK-15"],
+  "auto_approved_suggestions_consumed": 3,
+  "new_raw_scrapes": 4,
+  "raw_scrape_files": [
+    "PIR12-15-astroawani-hadi-bersatu-exit-pn-azmin-dispute-20260807.md",
+    "PIR12-13-15-astroawani-politik-index-bnpn-model-nurul-izzah-20260807-08.md",
+    "PIR12-15-harakah-melaka-tag-compilation-20260808.md",
+    "PIR13-15-melakahariini-homepage-compilation-20260801-08.md"
+  ],
+  "raw_scrape_directory": "04-DATA-AND-SOURCES/raw-scrapes/20260808/",
+  "daily_intelligence_file": "01-DAILY-INTELLIGENCE/cj-mlk-04-grassroots-secondary-20260808-0011MYT.md",
+  "top3_suggestions_file": "07-AUDIT/top3-mlk-suggestions-CJMLK04.md",
+  "cvs_new_claims": 10,
+  "cvs_claim_range": "CVS-MLK-364 to CVS-MLK-373",
+  "cvs_register_total": 373,
+  "tier_distribution_new": {"T2": 8, "T3": 2},
+  "pir_status": {
+    "PIR-12": "MAINTAINED + post-break escalation",
+    "PIR-13": "MAINTAINED + partial policy gap",
+    "PIR-14": "MAINTAINED + PKR context",
+    "PIR-15": "ENRICHED"
+  },
+  "key_findings": [
+    "Hadi claims BERSATU auto-exited PN (7 Aug); Azmin disputes citing Clause 7A; RoS complaint pending",
+    "PAS open to receiving individual BERSATU leaders (Harakah Daily, Aug 7)",
+    "BN-PN NS coalition government formed — UMNO offers NS formula as Melaka model",
+    "Bakri Jamaluddin appointed to TDM Berhad Board (Independent NED, Mar 2024) — 5th role",
+    "MyTrees@Melaka 70,753 trees digitalized — CM-announced, not Helmy (policy gap persists)",
+    "RM1M for Kem Sungai Udang water supply (N11, Tangga Batu constituency)",
+    "Nurul Izzah resigns as PKR Deputy President; PKR Congress Melaka Aug 15-16",
+    "AMK criticizes PAS on Tabung Haji RCI — intra-BN-PAS tension"
+  ],
+  "disputed_claims": [
+    "BERSATU PN membership status (Hadi: auto-exit vs Azmin: requires Presidential Council) — T5 candidate"
+  ],
+  "web_search_performance": "0/12 queries returned relevant Malaysian content — all returned global noise. All successful content from direct web_extract of known URLs.",
+  "cross_referenced_cronjobs": ["CJ-MLK-03 (coalition dynamics)", "CJ-MLK-09 (coalition dynamics)"]
+}
