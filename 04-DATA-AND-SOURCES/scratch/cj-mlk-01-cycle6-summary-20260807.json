@@ -1,0 +1,47 @@
+{
+  "cronjob": "CJ-MLK-01",
+  "cycle": 6,
+  "collection_timestamp": "2026-08-07 23:39 MYT",
+  "timestamp_utc": "2026-08-07 15:39 UTC",
+  "date_dir": "20260807",
+  "pois": ["Ab Rauf Yusoh", "Dr Muhamad Akmal Saleh"],
+  "pirs": ["PIR-POI-MLK-01", "PIR-POI-MLK-02", "PIR-POI-MLK-06", "PIR-POI-MLK-07", "PIR-POI-MLK-08"],
+  "articles_collected": 9,
+  "raw_scrape_files": [
+    "CRITICAL-PIR02-star-akmal-fight-against-dap-not-chinese-20260726.md",
+    "CRITICAL-PIR02-kosmo-akmal-pmx-tangkap-tabung-haji-20260723.md",
+    "CRITICAL-PIR02-astroawani-lhdn-razia-tabung-haji-rci-20260807.md",
+    "HIGH-PIR06-kosmo-abrauf-tolak-surat-peletakan-akmal-20260408.md",
+    "HIGH-PIR07-kosmo-akmal-nafi-drama-letak-jawatan-exco-20260205.md",
+    "HIGH-PIR08-kosmo-zahid-akmal-anak-nakal-kulit-pisang-20260117.md",
+    "HIGH-PIR07-kosmo-akmal-moga-bertemu-lagi-exco-farewell-20260119.md",
+    "HIGH-PIR01-mykmu-abrauf-perancangan-melaka-mesra-20260421.md",
+    "HIGH-PIR06-08-astroawani-politik-index-ns-bnpn-zahid-20260807.md"
+  ],
+  "sources_hit": ["The Star (1)", "Kosmo Digital (5)", "Astro Awani (2)", "MYKMU/UMNO Online (1)"],
+  "search_backend_status": "DEGRADED (6th consecutive cycle) - most web_search queries returned noise (AB Bank, Bing quiz, Pinterest, Russian singer). Workaround: direct web_extract of news portal tag/index pages + targeted article URLs from partial search hits",
+  "auto_approved_suggestions_resolution": {
+    "S1_rci_tabung_haji_debate": "STRENGTHENED/RESOLVING - LHDN raided 3 premises of former TH leadership on 7 Aug following RCI report; Daie Madani + NGOs submitted memorandum; AMK (UMNO Youth) attacking PAS on RCI timing. The 15-day rhetoric-to-action pipeline (Akmal 23 Jul Facebook -> LHDN raids 7 Aug) is now the strongest measurable-impact evidence. Dewan Rakyat debate 11 Aug still pending.",
+    "S2_kongres_pkr_melaka": "MAINTAINED - PKR Congress confirmed 15-16 Aug MITC Melaka. New: Nurul Izzah MPP PKR agreed temporary leave AFTER Congress; stepped down for further studies. Congress remains the key inflection point for PRN Melaka timeline.",
+    "S3_ismail_sabri_umno_vacuum": "MAINTAINED - Ismail Sabri charged 7 Aug (RM177M assets seized) from cycle 5. No new developments this cycle beyond the Astro Awani politik coverage of Zahid 'poster boy' controversy and Prof Zaini 'dinosaur politics' succession warnings. Perhimpunan Agung UMNO 9 Sep remains the next succession arena."
+  },
+  "key_findings": [
+    "MEASURABLE IMPACT CONFIRMED: Akmal Tabung Haji advocacy (23 Jul Facebook) -> Zahid endorsement (6 Aug) -> LHDN raids 3 premises of former TH leadership (7 Aug) = 15-day rhetoric-to-institutional-action pipeline",
+    "Ab Rauf-Akmal Exco resignation arc resolved: Akmal announced 15 Jan, sent letter 19 Jan, vacated office; Ab Rauf formally REJECTED resignation 8 Apr to preserve administrative continuity - demonstrates CM executive authority over Akmal in state governance",
+    "Akmal's resignation rationale: defend grassroots voices (suara akar umbi) + political dignity (maruah politik) against DAP pressure on UMNO in Unity Government",
+    "Zahid-Akmal relationship definitively characterized: 'anak nakal tapi disayang' paternalistic endorsement at PAU 2025 - Zahid never censored Akmal, gave rhetorical latitude, but warned 'jangan terpijak kulit pisang' (don't repeat his ICU/aspiration mistakes)",
+    "Ab Rauf governance agenda: 'Melaka Sayang Rakyat' (MeSRa) flagship, 3-pillar (economic development, human capital/welfare, governance/integrity), chaired MAIM + MCorp meetings; Kampung Digital initiative as modernization flagship",
+    "Akmal 'not anti-Chinese, anti-DAP' repositioning (26 Jul, Port Dickson): defines 'red lines' (religion, race, rulers/3R), challenges government to arrest him - counter to multiracial-appeal critique",
+    "NS BN-PN coalition government formed (10 BN-PN Exco) - Razlan Rafii (UMNO MKT) offers NS seat formula as Melaka reference; 'two centers of influence' risk flagged",
+    "Zahid 'poster boy' PRU16 controversy - succession pressure on Zahid; UKM academic urges transparent succession plans to prevent voter fatigue ('politik dinosaur')",
+    "AMK (UMNO Youth) attacks PAS on RCI Tabung Haji timing - coalition leverage conversion of anti-corruption momentum",
+    "Nurul Izzah: MPP PKR grants temporary leave after Melaka Congress (15-16 Aug) - PKR leadership uncertainty heading into PRN Melaka"
+  ],
+  "pir_status": {
+    "PIR-01": "Resolved (strengthened) - Ab Rauf's 'Melaka Sayang Rakyat' 3-pillar agenda documented; federally-aligned, no divergence",
+    "PIR-02": "Resolved (strengthened, MEASURABLE IMPACT) - 15-day rhetoric-to-action pipeline confirmed (Akmal->Zahid->LHDN); 'not anti-Chinese' repositioning documented",
+    "PIR-06": "Resolved (strengthened) - Ab Rauf exercised CM authority rejecting Akmal's resignation; NS BN-PN template offered for Melaka",
+    "PIR-07": "Partial (strengthened) - Exco resignation arc reveals Akmal's Merlimau/grassroots positioning; 'suara akar umbi' justification; but still no Melaka-specific electoral metrics",
+    "PIR-08": "Resolved (strengthened) - Zahid-Akmal 'anak nakal' relationship definitively characterized; Zahid 'poster boy' controversy opens succession lane"
+  }
+}
