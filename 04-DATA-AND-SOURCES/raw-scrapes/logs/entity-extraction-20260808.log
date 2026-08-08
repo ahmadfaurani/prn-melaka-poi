@@ -1,0 +1,7 @@
+[2026-08-08 06:00 +08] MLK Entity Extraction starting...
+[2026-08-08 06:00 +08] Processing: PIR12-13-15-astroawani-politik-index-bnpn-model-nurul-izzah-20260807-08
+[2026-08-08 06:00 +08] Processing: PIR12-15-astroawani-hadi-bersatu-exit-pn-azmin-dispute-20260807
+[2026-08-08 06:00 +08] Processing: PIR12-15-harakah-melaka-tag-compilation-20260808
+[2026-08-08 06:00 +08] Processing: PIR13-15-melakahariini-homepage-compilation-20260801-08
+[2026-08-08 06:00 +08] Entity extraction complete. 12 total matches across 4 files.
+[2026-08-08 06:00 +08] Output: /home/p62operator/.openclaw/workspace-mlk/04-DATA-AND-SOURCES/processed-entities/20260808
